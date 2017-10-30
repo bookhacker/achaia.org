@@ -1,0 +1,34 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Zeus
+
+*Zeus* ist ein Sohn des [[file:kronos.org][Kronos]] und der [[file:rhea.org][Rhea]].
+Er ist der Göttervater und oberster aller [[file:goetter.org][Götter]].
+
+** Ereignisse in Titaneion-Titanenschlacht Episoda 1: Bestienborn
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-titaneion-titanenschlacht-episoda-1-bestienborn
+   :END:
+
+Zeus wird während der Verschlingung der Kroniden vom Titanen Kronos
+verschlungen.
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Zeus betritt die Bühne als bereits Vergifteter. Er liegt im Sterben, als
+seine Gattin [[file:hera.org][Hera]] die [[file:athene.org][Athene]] aussendet, den
+Heiler [[file:asklepios.org][Asklepios]] um Hilfe zu bitten.
+
+Nachdem Zeus geheilt wurde, erscheint er in der Stadt Hypaipa, um die
+Spinnenbestie zu zerschmettern. Als er jedoch die wunderschönen
+Kunstwerke sieht, die die Bestie über die Häuser webt, nimmt selbst ihn
+der Anblick gefangen.
+
+Zeus ist der Einzige, der nicht am wundervollen Anblick fast zugrunde
+geht. Nachdem die Spinnenbestie tot ist, entfesselt er ein Gewitter, das
+alle am Boden Liegenden wiedererweckt, und verschwindet.
+
+Im Epilogos ist es der Zeus, der dem Asklepios als unerkannter Wanderer
+begegnet.

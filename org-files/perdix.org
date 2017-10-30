@@ -1,0 +1,43 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Perdix
+
+*Perdix* ist der Neffe des [[file:daedalus.org][Daedalus]] und dessen
+begabtester Lehrling.
+
+** Mythos
+   :PROPERTIES:
+   :CUSTOM_ID: mythos
+   :END:
+
+Nachdem er Daedalus in seiner Meisterschaft zu übertreffen drohte,
+stürzte sein Onkel ihn von einer Mauer. Die Göttin [[file:athene.org][Athene]]
+erschien und rettete den fallenden Perdix, indem sie ihn in ein Rebhuhn
+verwandelte.
+
+** Vor Titaneion-Titanenschlacht
+   :PROPERTIES:
+   :CUSTOM_ID: vor-titaneion-titanenschlacht
+   :END:
+
+Zu Beginn der Titanenschlacht lebt Perdix gemeinsam mit den
+[[file:amazonen.org][Amazonen]] heimlich im Untergrund der Stadt
+[[file:paphos.org][Paphos]]. Gemeinsam mit den Amazonen arbeitet er daran, den
+frauenfeindlichen und frauenmordenden [[file:pygmalion.org][König Pygmalion]]
+zu stürzen.
+
+** Ereignisse in Titaneion-Titanenschlacht Episoda 1: Bestienborn
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-titaneion-titanenschlacht-episoda-1-bestienborn
+   :END:
+
+Perdix rettet Athene und [[file:aphrodite.org][Aphrodite]] vor dem Einsturz der
+Schenke [[file:thermodonion.org][Thermodonion]].
+
+** Ereignisse in Titaneion-Titanenschlacht Episoda 2: Kolossansturm
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-titaneion-titanenschlacht-episoda-2-kolossansturm
+   :END:
+
+Perdix fertigt [[file:bestien-ikas.org][Bestien-Ikas]] ein paar neue Flügel.
+Beim Ansturm des [[file:Schattenkoloss.org][Kolosses]] auf die Stadt Paphos
+werden Bestien-Ikas' neue Flügel sogleich wieder zerstört.

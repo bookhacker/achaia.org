@@ -1,0 +1,13 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Zum Kalydonischen Eber
+
+*Zum Kalydonischen Eber* ist eine Schenke in [[file:hypaipa.org][Hypaipa]].
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Im Kalydonischen Eber wartet der Heiler [[file:asklepios.org][Asklepios]] auf
+den Ausgang des Wettbewerbs zwischen [[file:athene.org][Athene]] und
+[[file:arachne.org][Arachne]].

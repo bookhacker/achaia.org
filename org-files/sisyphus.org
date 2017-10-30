@@ -1,0 +1,8 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Sisyphus
+
+*Sisyphus* war einst ein König, der aber für einen Verrat am
+[[file:zeus.org][Zeus]] von [[file:hermes.org][Hermes]] dazu gezwungen wurde, in der
+[[file:totenreich.org][Unterwelt]] auf ewig einen Felsen einen Berg
+hinaufzurollen, der an der Spitzes des Berges immer wieder ins Tal
+hinunterrollt.

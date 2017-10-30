@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Samothrake
+
+*Samothrake* ist eine Insel im [[file:aegaeisches-meer.org][Ägäischen Meer]],
+südlich von [[file:thrakien.org][Thrakien]]. Samothrake ist der Wohnort der
+[[file:hippolaya.org][Hexe Hippolaya]].

@@ -1,0 +1,16 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Rhea
+
+*Rhea* ist die Tochter des [[file:uranus.org][Uranus]] und der [[file:gaia.org][Gaia]]
+und Gattin des [[file:kronos.org][Kronos]].
+
+** Ereignisse in Titaneion-Titanenschlacht Episoda 1: Bestienborn
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-titaneion-titanenschlacht-episoda-1-bestienborn
+   :END:
+
+Während der Ersten Titanenheerschau sagt sie sich von Kronos und seinen
+finsteren Plänen los und schließt sich [[file:gaia.org][Gaia]] in ihrem Kampf
+gegen die Titanen an. Seit dem Harpyienangriff auf die Schenke
+[[file:quelle-des-lyaeus.org][Quelle des Lyäus]] in [[file:athen.org][Athen]] gilt sie
+als vermisst.

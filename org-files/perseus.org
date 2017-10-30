@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Perseus
+
+*Perseus* ist ein [[file:helden.org][legendärer Heros]] und Sohn des
+[[file:zeus.org][Zeus]]. Er ist eine der Hauptfiguren in
+[[file:gorgoneion-eine-tragodia.org][Gorgoneion-Eine Tragodia]].

@@ -1,0 +1,7 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Sparta
+
+*Sparta* ist der militärisch stärkste und nach [[file:athen.org][Athen]]
+mächtigste Stadtstaat [[file:achaia.org][Achaias]]. Sparta liegt im Süden der
+Peloponnes in der Landschaft Lakonien und befindet sich in ständiger,
+mehr oder weniger friedlicher Konkurrenz mit der Stadt Athen.

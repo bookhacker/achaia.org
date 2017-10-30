@@ -1,0 +1,8 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Der Schatten des Kronospriesters
+
+Der *Schatten des Kronospriesters* ist der als Schatten erwachte
+[[file:kronospriester.org][Kronospriester]], nachdem dieser von
+[[file:kronos.org][Kronos]] in sein eigenes Orakelbecken gestürzt wurde. Kurz
+nach seinem Ableben wendete sich Kronos an ihn, um ihn fürderhin als
+Spion einzusetzen.

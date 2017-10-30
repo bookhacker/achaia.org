@@ -1,0 +1,9 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Paphos
+
+*Paphos* ist eine Hafenstadt im Südwesten [[file:zyprus.org][Zyperns]]. Ihr
+oberster Regent ist der kleinwüchsige [[file:pygmalion.org][König Pygmalion]].
+Aus Hass auf Frauen ließ er sämtliche Frauen der Stadt pfählen oder aus
+der Stadt jagen. Die einzigen Frauen in ganz Paphos sind die heimlich
+mit dem Erfinder [[file:perdix.org][Perdix]] im Untergrund lebenden
+[[file:amazonen.org][Amazonen]].

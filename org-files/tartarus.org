@@ -1,0 +1,14 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Tartarus
+
+In die Tiefen des *Tartarus* gelangt, wen die [[file:goetter.org][Götter]]
+strafen wollen. Die berühmtesten Bewohner dürfte das von den Göttern
+gestürzte Geschlecht der [[file:titanen.org][Titanen]] sein.
+
+** Besonderheiten
+   :PROPERTIES:
+   :CUSTOM_ID: besonderheiten
+   :END:
+
+Alles Lebende bzw. nicht vollständig Tote wird im Tartarus von einem
+schwachen Lichtschimmer umgeben.

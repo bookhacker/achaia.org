@@ -1,0 +1,4 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Pallas
+
+Der Begriff *Pallas* ist ein Beiname der [[file:athene.org][Athene]].

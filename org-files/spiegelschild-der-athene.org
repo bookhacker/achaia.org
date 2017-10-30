@@ -1,0 +1,17 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Der Spiegelschild der Athene
+
+Der *Spiegelschild der Athene* ist eine von [[file:athene.org][Athene]] an den
+[[file:helden.org][Held]] [[file:perseus.org][Perseus]] überreichte
+[[file:legendaere-artefakte.org][Legendäre Waffe]]. Mit seiner Hilfe sollte es
+dem Perseus möglich sein, gegen die [[file:gorgone.org][Gorgone]]
+[[file:medusa.org][Medusa]] zu bestehen.
+
+** Ereignisse in Gorgoneion-Eine Tragodia
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-gorgoneion-eine-tragodia
+   :END:
+
+Perseus trifft auf die Medusa, verliebt sich jedoch in sie. Zehn Jahre
+später, als der Fluch des [[file:ephyalkes.org][Ephyalkes]] wirksam wird, nimmt
+sich Medusa das Leben, indem sie in den Spiegelschild blickt.

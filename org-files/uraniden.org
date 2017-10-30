@@ -1,0 +1,24 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Uraniden
+
+Als *Uraniden* bezeichnet man die Kinder des [[file:uranus.org][Uranus]]:
+
+-  [[file:kronos.org][Kronos]]
+-  [[file:rhea.org][Rhea]]
+-  [[file:themis.org][Themis]]
+-  [[file:koios.org][Koios]]
+-  [[file:hyperion.org][Hyperion]]
+-  [[file:iapetos.org][Iapetos]]
+-  [[file:kreios.org][Kreios]]
+-  [[file:okeanos.org][Okeanos]]
+-  [[file:tethys.org][Tethys]]
+-  [[file:phoibe.org][Phoibe]]
+-  [[file:theia.org][Theia]]
+-  [[file:mnemosyne.org][Mnemosyne]]
+
+** Siehe auch
+   :PROPERTIES:
+   :CUSTOM_ID: siehe-auch
+   :END:
+
+-  [[file:kroniden.org][Kroniden]]

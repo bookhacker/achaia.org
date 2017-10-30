@@ -1,0 +1,20 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Thermodonion
+
+*Thermodonion* ist eine Schenke in [[file:paphos.org][Paphos]]. Sie ist benannt
+nach dem Fluss [[file:thermodon.org][Thermodon]], an dessen breitester Mündung
+die [[file:amazonen.org][Amazonen]] leben.
+
+** Ereignisse in Titaneion-Titanenschlacht Episoda 1: Bestienborn
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-titaneion-titanenschlacht-episoda-1-bestienborn
+   :END:
+
+Die Schenke wird von den Wachen des [[file:pygmalion.org][Königs Pygmalion]]
+auf der Suche nach [[file:bestien-ikas.org][Bestien-Ikas]],
+[[file:athene.org][Athene]], [[file:aphrodite.org][Aphrodite]], [[file:hades.org][Hades]] und
+dem [[file:schatten-des-kronospriesters.org][Schatten des Kronospriesters]],
+der sich wenig später absetzt, völlig zerstört.
+
+In ihren Trümmern stellt Hades den Kopf des [[file:daedalus.org][Daedalus]] zur
+Rede.

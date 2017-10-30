@@ -1,0 +1,70 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Totenreich
+
+Nach ihrem Tod gelangen die Verstorbenen in das *Totenreich*. Sie werden
+dort vom Götterboten [[file:hermes.org][Hermes]] in Empfang genommen und zum
+Fluss [[file:styx.org][Styx]] geführt. Über den Styx bringt
+[[file:charon.org][Charon]], der Fährmann, die Toten zur
+[[file:halle-der-richter.org][Halle der Richter]], wo die
+[[file:richter-der-toten.org][Richter]] ihr Urteil über den Verstorbenen
+fällen. Anschließend werden sie am Höllenhund [[file:zerberus.org][Zerberus]]
+vorbei in einen der folgenden Bereiche geführt:
+
+** Die Regionen des Totenreiches
+   :PROPERTIES:
+   :CUSTOM_ID: die-regionen-des-totenreiches
+   :END:
+
+*** Der Asphodeliengrund
+    :PROPERTIES:
+    :CUSTOM_ID: der-asphodeliengrund
+    :END:
+
+Die meisten Seelen fristen ihr Dasein als Schatten im
+[[file:asphodeliengrund.org][Asphodeliengrund]]. Nach dem Richtspruch tinken
+sie vom Fluß [[file:lethe.org][Lethe]], dem Fluss des Vergessens, um ihr
+irdisches Dasein zu vergessen und hinter sich zu lassen. Der Fluss
+[[file:kokytos.org][Kokytos]] ist der Fluss des Wehklagens. Wer aus ihm trinkt,
+erinnert sich seines verlorenen Lebens und stimmt in ein ewiges
+Wehklagen ein. Weitere Flüsse im Totenreich sind der
+[[file:mnemosyne-fluss.org][Mnemosyne]], der Fluss der Allwissenheit, sowie der
+[[file:acheron.org][Acheron]], der Fluss des Leides und der Schmerzen.
+
+*** Die Elysischen Felder
+    :PROPERTIES:
+    :CUSTOM_ID: die-elysischen-felder
+    :END:
+
+Die [[file:elysische-felder.org][Elysischen Felder]] sind nur den allergrößten
+[[file:helden.org][Helden]] vorbehalten. Sie sind ein Ort ewiger
+Glückseligkeit. Nicht einmal dem berühmten [[file:herakles.org][Herakles]] oder
+[[file:achilles.org][Achilles]] war es vergönnt, ihr Dasein in den Elysischen
+Feldern zu fristen.
+
+*** Der Tartarus
+    :PROPERTIES:
+    :CUSTOM_ID: der-tartarus
+    :END:
+
+In den [[file:tartarus.org][Tartarus]] gelangt, wen die [[file:goetter.org][Götter]]
+strafen wollen. Die berühmtesten Bewohner dürfte das
+[[file:titaneion-titanenschlacht.org][von den Göttern gestürzte]] Geschlecht
+der [[file:titanen.org][Titanen]] sein.
+
+*** Der Aether
+    :PROPERTIES:
+    :CUSTOM_ID: der-aether
+    :END:
+
+Eine Sonderstellung im Leben nach dem Tod nimmt der [[file:aether.org][Aether]]
+ein.
+
+** Regeneration
+   :PROPERTIES:
+   :CUSTOM_ID: regeneration
+   :END:
+
+Alles, was ins Totenreich gelangt, regeneriert. Verstümmelte werden
+wieder vollständig, kaputte Gegenstände werden wieder komplett. Wird ein
+Gott getötet, verliert er zunächst einen Großteil seiner Macht, der nur
+langsam wieder nach und nach regeneriert.

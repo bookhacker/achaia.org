@@ -1,0 +1,15 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Phoibe
+
+*Phoibe* ist die Tochter des [[file:uranus.org][Uranus]] und der
+[[file:gaia.org][Gaia]]. In späteren Zeiten löst sie die [[file:titanen.org][Titanin]]
+[[file:themis.org][Themis]] als Hüterin des [[file:orakel-von-delphi.org][Orakels von
+Delphi]] ab. Sie ist die Gattin des Titanen [[file:koios.org][Koios]].
+
+** Ereignisse in Titaneion-Titanenschlacht Episoda 1: Bestienborn
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-titaneion-titanenschlacht-episoda-1-bestienborn
+   :END:
+
+Im Gegensatz zu ihrem Gatten Koios weigert sie sich, auf Seiten des
+Titanen [[file:kronos.org][Kronos]] zu kämpfen.

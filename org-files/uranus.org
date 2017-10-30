@@ -1,0 +1,14 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Uranus
+
+*Uranus* ist die Personifikation des Himmels. Er ist der Vater der
+[[file:uraniden.org][Uraniden]] und Gatte der [[file:gaia.org][Gaia]].
+
+** Besondere Fähigkeiten
+   :PROPERTIES:
+   :CUSTOM_ID: besondere-fähigkeiten
+   :END:
+
+Als Herr des Himmels beherrscht er die Wolken, den Regen und den
+Sturmwind. Uranus kann einen Sturmregen heraufbeschwören, der seine
+Feinde niederwirft und ein Fortkommen unmöglich macht.

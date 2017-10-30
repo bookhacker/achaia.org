@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Polydektes
+
+*Polydektes* war der König von [[file:seriphos.org][Seriphos]]. Er entsandte
+[[file:perseus.org][Perseus]], die [[file:gorgone.org][Gorgone]] [[file:medusa.org][Medusa]]
+zu töten.

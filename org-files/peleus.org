@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Peleus
+
+*Peleus* ist der Vater des [[file:achilles.org][Achilles]] und Teilnehmer der
+[[file:argonautenfahrt.org][Argonautenfahrt]].

@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Salamis (Insel)
+
+*Salamis* ist die größte griechische Insel im
+[[file:saronischer-golf.org][Saronischen Golf]].

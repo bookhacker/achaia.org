@@ -1,0 +1,26 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Padmilos
+
+*Padmilos* ist ein Junge aus [[file:kolophon.org][Kolophon]].
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Aufgewachsen in den Hütten außerhalb der Stadt, arbeitet er, so lang er
+sich erinnern kann, in der Gewinnung von [[file:kolophonium.org][Kolophonium]].
+Als er eines Tages genug davon hat, tritt er von den giftigen Dämpfen
+geblendet die Flucht an und schließt sich dem
+[[file:asklepios.org][Asklepios]], der [[file:arachne.org][Arachne]] und der Ziege
+[[file:colydon.org][Colydon]] auf ihrem Weg nach [[file:myrina.org][Myrina]] an.
+
+Er ist die gesamte Reise über anwesend von [[file:kolophon.org][Kolophon]] bis
+nach [[file:hypaipa.org][Hypaipa]]. Auf der Insel [[file:samothrake.org][Samothrake]]
+gerät er in die Fänge der [[file:kybele.org][Kybele]]. Diese will ihn auf dem
+Opferaltar kastrieren, um ihren geliebten [[file:attis.org][Attis]]
+wiederzuerwecken.
+
+In Hypaipa angekommen erhält er eine Anstellung als Kammerdiener im
+Hause der [[file:orke.org][Orke]]. Als die Orke schließlich dem Wahnsinn
+verfällt, ist es Padmilos, der sich ihrer annimmt und sie pflegt.

@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Thessalien
+
+*Thessalien* ist eine Landschaft im nördlichen
+[[file:griechenland.org][Griechenland]].

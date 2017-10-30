@@ -1,0 +1,40 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Der Tod des Hermes
+
+Der *Tod des Hermes* beschreibt die Ermordung des [[file:hermes.org][Hermes]]
+durch die [[file:hippolaya.org][Hexe Hippolaya]].
+
+** Der Tempel des Attis
+   :PROPERTIES:
+   :CUSTOM_ID: der-tempel-des-attis
+   :END:
+
+Als sich [[file:asklepios.org][Asklepios]], [[file:iason.org][Iason]], das Mädchen
+[[file:arachne.org][Arachne]], der Junge [[file:padmilos.org][Padmilos]] und die Ziege
+[[file:colydon.org][Colydon]] in Richtung der [[file:insel-der-moiren.org][Insel der
+Moiren]] aufmachen, verlässt der Hermes die Gruppe und zieht sich
+gemeinsam mit der [[file:athene.org][Athene]] auf die Insel
+[[file:samothrake.org][Samothrake]] zurück.
+
+Er erfährt von den uralten Mächten, die auf der Insel hausen und sucht
+den [[file:tempel-des-attis.org][Tempel]] im Inneren der Insel auf.
+
+** Innerhalb der Gruft
+   :PROPERTIES:
+   :CUSTOM_ID: innerhalb-der-gruft
+   :END:
+
+Innerhalb des Tempels wird der Hermes von dem wiedererweckten Monstrum
+[[file:agdistis.org][Agdistis]] überrascht, kann jedoch entkommen. Wenig später
+wird er von der Hexe Hippolaya in Bestienform entdeckt, diese hebt ihn
+mit einem unsichtbaren Würgegriff in die Luft und bricht ihm das Genick.
+
+** Die Queste des Autolykos
+   :PROPERTIES:
+   :CUSTOM_ID: die-queste-des-autolykos
+   :END:
+
+[[file:autolykos.org][Autolykos]] erfährt vom Heiler Asklepios kurz vor dem
+Wettstreit zwischen Arachne und Athene, dass [[file:hera.org][Hera]] ihm
+erzählt hat, dass der Hermes gefallen ist. Daraufhin macht sich
+Autolykos auf, seinen Vater zu suchen.

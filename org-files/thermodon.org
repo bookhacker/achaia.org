@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Thermodon
+
+Der *Thermodon* ist ein Fluss, an dessen breitester Mündung die
+[[file:amazonen.org][Amazonen]] leben. Die Schenke
+[[file:thermodonion.org][Thermodonion]] ist nach ihm benannt.

@@ -1,0 +1,14 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Seher
+
+*Seher* sind Wesen, die in der Lage sind, die Zukunft, die Vergangenheit
+oder generell Dinge zu sehen, die andere nicht zu sehen in der Lage
+sind.
+
+** Liste der Seher Achaias
+   :PROPERTIES:
+   :CUSTOM_ID: liste-der-seher-achaias
+   :END:
+
+-  [[file:idmon.org][Idmon]]
+-  [[file:teiresias.org][Teiresias]]

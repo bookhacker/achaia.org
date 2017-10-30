@@ -1,0 +1,7 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Pantheon
+
+Das *Pantheon* ist eine gewaltige - vom Gott
+[[file:hephaistos.org][Hephaistos]] aus dem Berg geschlagene - Halle auf dem
+Berg [[file:olymp.org][Olymp]]. In ihm hausen und tagen die
+[[file:goetter.org][Götter]].

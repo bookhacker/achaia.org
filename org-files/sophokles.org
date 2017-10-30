@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Sophokles
+
+*Sophokles* ist einer der [[file:chor-der-dramatiker.org][drei großen
+Dramatiker]].

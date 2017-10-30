@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Pasiphae
+
+*Pasiphae* ist die Gattin des [[file:minos.org][Minos]] und Mutter des
+[[file:minotaurus.org][Minotaurus]]. Sie ist eine der Hauptfiguren in
+[[file:ikareion-taurusflucht.org][Ikareion-Taurusflucht]]

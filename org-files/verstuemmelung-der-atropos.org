@@ -1,0 +1,28 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Die Verstümmelung der Atropos
+
+Die *Verstümmelung der Atropos* fand statt
+[[file:arachneion-pallashass.org][beim Versuch]], auf der
+[[file:insel-der-moiren.org][Insel der Moiren]] an das
+[[file:moirenblut.org][Moirenblut]] zu gelangen.
+
+** Die Erlangung des Moirenblutes
+   :PROPERTIES:
+   :CUSTOM_ID: die-erlangung-des-moirenblutes
+   :END:
+
+Durch eine List verschafft sich die [[file:hippolaya.org][Hexe Hippolaya]]
+Einlass in die Hütte der [[file:moiren.org][Moiren]]. Die Moire
+[[file:atropos.org][Atropos]] verletzt sich an einem gerissenen
+[[file:lebensfaden.org][Lebensfaden]] an der Wange, die Hexe Hippolaya reicht
+ihr daraufhin ein Tuch. Als die Hexe genug von dem Schauspiel hat,
+entfesselt sie mehrere Schockwellen, welche die Moiren zu Boden werfen.
+Die Schockwellen reißen der Atropos beide Fangbeine ab.
+
+** Die Zerstörung des Spinnrades
+   :PROPERTIES:
+   :CUSTOM_ID: die-zerstörung-des-spinnrades
+   :END:
+
+Vor ihrer Flucht zerstört die Hexe Hippolaya noch das Spinnrad der
+Moiren.

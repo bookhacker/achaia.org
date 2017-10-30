@@ -1,0 +1,13 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Wesen
+
+Als *Wesen* bezeichnet man jegliche Form intelligenter Existenz:
+
+-  [[file:bestien.org][Bestien]]
+-  [[file:fabelwesen.org][Fabelwesen]]
+-  [[file:geister.org][Geister]]
+-  [[file:goetter.org][Götter]]
+-  [[file:tiere.org][Tiere]]
+-  [[file:titanen.org][Titanen]]
+-  [[file:menschen.org][Menschen]]
+-  [[file:untote.org][Untote]]

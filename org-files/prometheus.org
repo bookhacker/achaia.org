@@ -1,0 +1,26 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Prometheus
+
+*Prometheus* ist der Sohn des [[file:iapetos.org][Iapetos]] und der
+[[file:asia.org][Asia]]. Als erster Nicht-[[file:uraniden.org][Uranide]] wurde er von
+seinen Geschwistern, den [[file:titanen.org][Titanen]], als Außenseiter
+geschmäht.
+
+** Erschaffer der Menschen
+   :PROPERTIES:
+   :CUSTOM_ID: erschaffer-der-menschen
+   :END:
+
+Prometheus erschuf die Menschen aus Lehm und ließ ihnen von der Göttin
+[[file:athene.org][Athene]] Leben einhauchen.
+
+** Bringer des Feuers
+   :PROPERTIES:
+   :CUSTOM_ID: bringer-des-feuers
+   :END:
+
+Für seinen Frevel, den Menschen gegen den Willen des Göttervaters
+[[file:zeus.org][Zeus]] das Feuer gebracht zu haben, wurde Prometheus von Zeus
+mit einer von [[file:hephaistos.org][Hephaistos]] geschmiedeten Kette an einen
+Felsen gekettet, wo ein Adler jeden Tag von seiner Leber fraß, die sich
+jeden Tag wieder erneuerte.

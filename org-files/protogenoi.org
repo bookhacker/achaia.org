@@ -1,0 +1,13 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Protogenoi
+
+Die *Protogenoi* sind die ältesten Wesen überhaupt. Sie sind direkte
+Nachkommen des [[file:kaos.org][Kaos]].
+
+** Liste der Protogenoi
+   :PROPERTIES:
+   :CUSTOM_ID: liste-der-protogenoi
+   :END:
+
+-  [[file:gaia.org][Gaia]]
+-  [[file:uranus.org][Uranus]]

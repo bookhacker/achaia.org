@@ -1,0 +1,56 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Poseidon
+
+*Poseidon* ist ein Sohn des [[file:kronos.org][Kronos]] und der
+[[file:rhea.org][Rhea]]. Er ist der Gott des Meeres und ein ausgesprochener
+Pferde-Liebhaber.
+
+** Äußere Erscheinung
+   :PROPERTIES:
+   :CUSTOM_ID: äußere-erscheinung
+   :END:
+
+Seine Haut ist bläulich. Seine Waffe ist der Dreizack.
+
+** Besondere Talente
+   :PROPERTIES:
+   :CUSTOM_ID: besondere-talente
+   :END:
+
+*** Die rasenden Rosse des Poseidon
+    :PROPERTIES:
+    :CUSTOM_ID: die-rasenden-rosse-des-poseidon
+    :END:
+
+Poseidon vermag, aus Wellen gewaltige Rosse aus Wasser zu erzeugen, die
+auf seine Feinde zurasen und diese vernichten. Kaum etwas vemag, den
+rasenden Rossen des Poseidon standzuhalten.
+
+*** @@html:<a name="hydrofestation">@@@@html:</a>@@Wasserverwandlung
+(Hydrofestation)
+    :PROPERTIES:
+    :CUSTOM_ID: wasserverwandlung-hydrofestation
+    :END:
+
+Poseidon kann sich selbst in Wasser verwandeln und dabei jede mögliche
+Form annehmen. Er kann jederzeit Wasser herbeibeschwören und Wasser in
+seiner näheren Umgebung manipulieren.
+
+** Ereignisse in Titaneion-Titanenschlacht Episoda 1: Bestienborn
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-titaneion-titanenschlacht-episoda-1-bestienborn
+   :END:
+
+Während der [[file:verschlingung-der-kroniden.org][Verschlingung der Kroniden]]
+wird er vom Titanen [[file:kronos.org][Kronos]] verschlungen.
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Um den Angriff der persischen Flotte auf die Stadt
+[[file:kolophon.org][Kolophon]] abzuwehren, entfesselt Poseidon den
+[[file:ketos.org][Ketos]]. Es gelingt ihm zwar, die Perser zurückzuschlagen,
+jedoch wird beim anschließenden Kampf zwischen Poseidon und der Bestie
+die Stadt Kolophon vernichtet.

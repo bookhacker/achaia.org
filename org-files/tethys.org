@@ -1,0 +1,15 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Tethys
+
+*Tethys* ist eine Tochter des [[file:uranus.org][Uranus]] und der
+[[file:gaia.org][Gaia]]. Sie ist eine Schwester und Gattin des
+[[file:Tethys.org][Okeanos]].
+
+** Ereignisse in Titaneion-Titanenschlacht Episoda 1: Bestienborn
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-titaneion-titanenschlacht-episoda-1-bestienborn
+   :END:
+
+Während der [[file:erste-titanenheerschau.org][Ersten Titanenheerschau]]
+verweigert sie - wie alle weiblichen Titanen - ihrem Bruder
+[[file:kronos.org][Kronos]] ihre Unterstützung.

@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Der Tempel des Attis
+
+Der *Tempel des Attis* ist eine uralte Tempelanlage in einem
+unzugänglichen Wäldchen auf der [[file:samothrake.org][Insel Samothrake]].

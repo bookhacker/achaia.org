@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Phydrax
+
+*Phydrax* war der Sohne des [[file:ephylakes.org][Ephyalkes]]. In
+[[file:gorgoneion-eine-tragodia.org][Gorgoneion-Eine Tragodia]] wurde er von
+der [[file:gorgonen.org][Gorgone]] [[file:medusa.org][Medusa]] in Stein verwandelt.

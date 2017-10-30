@@ -1,0 +1,16 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Die Richter der Toten
+
+Die *Richter der Toten* entscheiden, ob die Verstorbenen ihr Dasein im
+[[file:tartarus.org][Tartarus]], in den [[file:elysische-felder.org][Elysischen
+Feldern]] oder im [[file:asphodeliengrund.org][Asphodeliengrund]] fristen
+werden.
+
+** Die Richter der Toten
+   :PROPERTIES:
+   :CUSTOM_ID: die-richter-der-toten
+   :END:
+
+-  [[file:rhadamanthys.org][Rhadamanthys]]
+-  [[file:aiakos.org][Aiakos]]
+-  [[file:minos.org][Minos]]

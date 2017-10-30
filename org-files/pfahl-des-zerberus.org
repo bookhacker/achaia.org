@@ -1,0 +1,8 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Der Pfahl des Zerberus
+
+Am *Pfahl des Zerberus* wacht der [[file:zerberus.org][Höllenhund]] darüber,
+dass kein Toter in das [[file:totenreich.org][Totenreich]] eindringen oder aus
+dem Totenreich entkommen kann. Sowohl der Pfahl als auch die Kette, die
+den Zerberus hält, wurden vom Gott [[file:hephaistos.org][Hephaistos]]
+geschmiedet und sind nahezu unzerstörbar.

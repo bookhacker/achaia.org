@@ -1,0 +1,16 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Zerberus
+
+Der *Zerberus* ist der dreiköpfige Höllenhund und Bewacher der
+[[file:Totenreich.org][Unterwelt]]. Er hindert die Toten daran, aus dem Hades
+auszubrechen und die Lebenden daran hineinzugelangen. In seinen Augen
+leuchten lodernde Feuer und sein Geifer ist verzehrende Säure.
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Nach [[file:ermordung-des-hades.org][seiner Ermordung]] lässt der
+[[file:hades.org][Totengott]] den Höllenhund auf den Heiler
+[[file:asklepios.org][Asklepios]] los.

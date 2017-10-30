@@ -1,0 +1,12 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Werke
+
+Folgende in der Welt [[file:achaia.org][Achaia]] spielende *Werke* sind bisher
+erschienen:
+
+-  [[file:ikareion-taurusflucht.org][Ikareion-Taurusflucht]]
+-  [[file:Titaneion-Titanenschlacht.org][Titaneion-Titanenschlacht]]
+-  [[file:titaneion-1.org][Episoda 1: Bestienborn]]
+-  [[file:titaneion-2.org][Episoda 2: Kolossansturm]]
+-  [[file:gorgoneion-eine-tragodia.org][Gorgoneion-Eine Tragodia]]
+-  [[file:arachneion-pallashass.org][Arachneion-Pallashass]]

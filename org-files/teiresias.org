@@ -1,0 +1,4 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Teiresias
+
+*Teiresias* war ein blinder [[file:seher.org][Seher]].

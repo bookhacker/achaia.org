@@ -1,0 +1,21 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Python
+
+*Python* ist eine gewaltige Schlange mit Flügeln (Drache). Python ist
+der Bewacher des [[file:orakel-von-delphi.org][Orakels von Delphi]] am Hang des
+[[file:parnass.org][Parnass]].
+
+** Ereignisse in Titaneion-Titanenschlacht Episoda 2: Kolossansturm
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-titaneion-titanenschlacht-episoda-2-kolossansturm
+   :END:
+
+Um zu flüchten, schleudert [[file:gaia.org][Gaia]] den [[file:titanen.org][Titanen]]
+den Python entgegen. Python verwundet den Titanen [[file:kreios.org][Kreios]]
+so schwer, dass dieser vom [[file:schatten-des-kronospriesters.org][Schatten
+des Kronospriesters]] in der
+[[file:himmelsfestung-des-uranus.org][Himmelsfestung des Uranus]]
+gesundgepflegt werden muss. Für seine Verdienste verwandelt
+[[file:kronos.org][Kronos]] den Schatten des Kronospriesters in den
+[[file:schattenkoloss.org][Schattenkoloss]], den er entsendet, die Stadt
+[[file:paphos.org][Paphos]] zu verwüsten.

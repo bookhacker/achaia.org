@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Der Saronischer Golf
+
+Der *Saronische Golf* ist ein Nebenarm des
+[[file:aegaeisches-meer.org][Ägäischen Meeres]].
