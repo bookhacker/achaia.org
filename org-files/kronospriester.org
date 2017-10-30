@@ -1,0 +1,18 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Kronospriester
+
+Der *Kronospriester* war der Priester im Kronostempel zu
+[[file:athen.org][Athen]].
+
+** Ereignisse in Titaneion-Titanenschlacht Episoda 1: Bestienborn
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-titaneion-titanenschlacht-episoda-1-bestienborn
+   :END:
+
+Nachdem der Schankwirt der Schenke [[file:thermodonion.org][Thermodonion]] ihm
+erzählt, dass [[file:bestien-ikas.org][Bestien-Ikas]], [[file:athene.org][Athene]],
+[[file:hades.org][Hades]] und [[file:rhea.org][Rhea]] in seinem Gasthaus nächtigen,
+ruft er [[file:kronos.org][Kronos]] an und wird von diesem ins Orakelbecken
+gestoßen. Er findet sich wieder als
+[[file:schatten-des-kronospriesters.org][Schatten]] im
+[[file:tartarus.org][Tartarus]].

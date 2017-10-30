@@ -1,0 +1,14 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Hadesbrand
+
+Die Klinge *Hadesbrand* ist eine vom Heiler [[file:asklepios.org][Asklepios]]
+[[file:erweckte-klinge.org][Erweckte Klinge]].
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+[[file:ermordung-des-hades.org][Asklepios tötet den Hades]] mit der Klinge,
+nachdem der Schemen des [[file:idmon.org][Idmon]] dazu nicht in der Lage ist,
+da kein Toter den [[file:hades.org][Gott der Toten]] töten kann.

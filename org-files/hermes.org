@@ -1,0 +1,41 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Hermes
+
+*Hermes* ist der Sohn des [[file:zeus.org][Zeus]] und der [[file:maia.org][Maia]] und
+Bote der [[file:goetter.org][Götter]]. Er ist der Vater des
+[[file:autolykos.org][Autolykos]].
+
+** Hermes' Rolle im Totenreich
+   :PROPERTIES:
+   :CUSTOM_ID: hermes-rolle-im-totenreich
+   :END:
+
+Hermes empfängt die Toten am Eingang des [[file:totenreich.org][Totenreiches]]
+und führt sie hinunter zu den Ufern des [[file:styx.org][Flusses Styx]], wo er
+sie dem [[file:charon.org][Fährmann Charon]] übergibt.
+
+** Aussehen
+   :PROPERTIES:
+   :CUSTOM_ID: aussehen
+   :END:
+
+Hermes ist ein zierlicher Mann mit breitbandigem Hut und Flügeln an Hut
+und Sandalen.
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Hermes schließt sich [[file:asklepios.org][Asklepios]] und den anderen bei der
+Suche nach der [[file:argo.org][Argo]] an. Er ist es, der das Schrift freilegt.
+Bevor sie die [[file:insel-der-moiren.org][Insel der Moiren]] erreichen,
+verlässt Hermes gemeinsam mit [[file:athene.org][Athene]] die Gruppe und lässt
+sich zur [[file:samothrake.org][Insel Samothrake]] bringen. Als er von den
+uralten Mythen erfährt, sucht er den Tempel des [[file:attis.org][Attis]] auf,
+wo er dem [[file:agdistis.org][Monstrum Agdistis]] begegnet und in dem ihn kurz
+darauf die [[file:hippolaya.org][Hexe Hippolaya]] in Bestienform
+[[file:tod-des-hermes.org][tötet]].
+
+Mit den Sandalen des Hermes gelangt das Monstrum Agdistis über das
+[[file:aegaeisches-meer.org][Ägäische Meer]] auf die Argo.

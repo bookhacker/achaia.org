@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Metis
+
+*Metis* ist die Tochter des [[file:okeanos.org][Okeanos]] und Mutter der
+[[file:goetter.org][Göttin]] [[file:athene.org][Athene]].

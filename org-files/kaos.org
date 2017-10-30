@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Kaos
+
+Das *Kaos* oder *Chaos* ist das Nichts und das Alles. Es ist der
+Ursprung aller Existenz.

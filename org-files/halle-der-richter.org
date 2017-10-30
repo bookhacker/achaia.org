@@ -1,0 +1,12 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Halle der Richter
+
+In der *Halle der Richter* halten die drei Totenrichter
+[[file:minos.org][Minos]], [[file:aiakos.org][Aiakos]] und
+[[file:rhadamanthys.org][Rhadamanthys]] Gericht über die verstorbenen Seelen.
+Die Verstorbenen werden nach ihrem Ableben vom Götterboten
+[[file:hermes.org][Hermes]] in Empfang genommen und an den [[file:styx.org][Fluss
+Styx]] geführt, wo sie [[file:charon.org][Charon]], der Fährmann über den Fluss
+rudert. Am anderen Ufer angekommen und am
+[[file:pfahl-des-zerberus.org][Pfahl]] des [[file:zerberus.org][Zerberus]] vorbei
+werden die Toten in die Halle der Richter geführt.

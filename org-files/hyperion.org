@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Hyperion
+
+*Hyperion* ist ein Sohn des [[file:uranus.org][Uranus]] und der
+[[file:gaia.org][Gaia]]. Er ist der Vater des [[file:helios.org][Helios]]. Sein
+Beiname lautet "Titan des Ostens".

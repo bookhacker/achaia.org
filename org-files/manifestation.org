@@ -1,0 +1,17 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Manifestation
+
+[[file:goetter.org][Götter]] besitzen die Fähigkeit der *Manifestation*. Sie
+können sich - und i. d. R. auch andere Wesen - an beliebige Orte
+innerhalb der [[file:goettliche-sphaere.org][Göttlichen Sphäre]] versetzen.
+Manche Orte wie z. B. die [[file:insel-der-moiren.org][Insel der Moiren]]
+liegen außerhalb der Göttlichen Sphäre und sind selbst für die Götter
+durch Manifestation nicht erreichbar.
+
+** Besonderheiten
+   :PROPERTIES:
+   :CUSTOM_ID: besonderheiten
+   :END:
+
+Bereits einige Augenblicke vor der Manifestation am Zielort ist zu
+hören, was geprochen wird (und auch alle anderen Geräusche).

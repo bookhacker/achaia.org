@@ -1,0 +1,11 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Historische Ereignisse
+
+*Historische Ereignisse* sind Ereignisse mit weitreichenden Auswirkungen
+auf die Welt [[file:achaia.org][Achaia]].
+
+-  [[file:aufstand-der-toten.org][Der Aufstand der Toten]]
+-  [[file:ermordung-des-hades.org][Die Ermordung des Hades]]
+-  [[file:tod-des-hermes.org][Der Tod des Hermes]]
+-  [[file:untergang-der-stadt-kolophon.org][Der Untergang der Stadt Kolophon]]
+-  [[file:verstuemmelung-der-atropos.org][Die Verstümmelung der Moire Atropos]]

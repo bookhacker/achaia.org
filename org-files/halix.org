@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Halix
+
+*Halix* war ein Säufer und eine arme Seele aus der Stadt
+[[file:seriphos.org][Seriphos]]. Er wurde von der [[file:gorgonen.org][Gorgone]]
+[[file:medusa.org][Medusa]] versteinert.

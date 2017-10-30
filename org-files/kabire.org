@@ -1,0 +1,10 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Kabire
+
+*Kabiren* waren alte und mächtige Gottheiten, über die nur wenig bekannt
+war und die in geheimen Mysterienkulten verehrt wurden.
+
+Bekannte Kabiren
+
+-  [[file:attis.org][Attis]]
+-  [[file:kybele.org][Kybele]]

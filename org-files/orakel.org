@@ -1,0 +1,15 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Orakel
+
+Ein *Orakel* ist eine heilige Stätte zur Anrufung der
+[[file:goetter.org][Götter]], um diese wohlgefällig zu stimmen, etwas von ihnen
+zu erbitten oder einen Blick in die Zukunft zu erhaschen.
+
+** Liste der Orakel Achaias:
+   :PROPERTIES:
+   :CUSTOM_ID: liste-der-orakel-achaias
+   :END:
+
+-  [[file:orakel-von-delphi.org][Orakel von Delphi]]
+-  [[file:orakel-von-klaros.org][Orakel von Klaros]]
+-  [[file:orakel-von-olympos.org][Orakel von Olympos]]

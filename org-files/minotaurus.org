@@ -1,0 +1,8 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Minotaurus
+
+Der *Minotaurus* (= Stier des [[file:minos.org][Minos]]) ist die Leibesfrucht
+der widernatürlichen Vereinigung des Stiers des [[file:poseidon.org][Poseidon]]
+und der [[file:pasiphae.org][Pasiphae]].
+
+Der geheime, wahre Name des Minotaurus lautet [[file:asterios.org][Asterios]].

@@ -1,0 +1,15 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Himmelsfestung des Uranus
+
+Die *Himmelsfestung des Uranus* ist der Sitz des
+[[file:protogenoi.org][Protogenos]] [[file:uranus.org][Uranus]] auf dem
+[[file:olymp.org][Olymp]] hoch über den Wolken.
+
+** Ereignisse in Titaneion-Titanenschlacht Episoda 1: Bestienborn
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-titaneion-titanenschlacht-episoda-1-bestienborn
+   :END:
+
+In [[file:titaneion-1.org][Titaneion-Titanenschlacht Episoda 1: Bestienborn]]
+kastriert [[file:kronos.org][Kronos]] den Uranus mit einer [[file:hippe.org][Hippe]],
+nimmt die Himmelsfestung ein und besetzt den Himmels-Thron.

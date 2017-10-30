@@ -1,0 +1,18 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Kroniden
+
+Als *Kroniden* bezeichnet man die Kinder des [[file:kronos.org][Kronos]]:
+
+-  [[file:demeter.org][Demeter]]
+-  [[file:hades.org][Hades]]
+-  [[file:hera.org][Hera]]
+-  [[file:hestia.org][Hestia]]
+-  [[file:poseidon.org][Poseidon]]
+-  [[file:zeus.org][Zeus]]
+
+** Siehe auch
+   :PROPERTIES:
+   :CUSTOM_ID: siehe-auch
+   :END:
+
+-  [[file:/uraniden][Uraniden]]

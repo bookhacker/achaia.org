@@ -1,0 +1,17 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Labyrinth des Minotaurus
+
+Das *Labyrinth des Minotaurus* ist ein riesiges, unter der
+[[file:kreta.org][Insel Kreta]] von dem [[file:daedalus.org][legendären Erfinder
+Daedalus]] erbautes Labyrinth.
+
+** Ereignisse in Ikareion-Taurusflucht
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-ikareion-taurusflucht
+   :END:
+
+Ursprünglich erbaute Daedalus das Labyrinth, um den heranwachsenden
+[[file:minotaurus.org][Minotaurus]] dort einzusperren. Aufgrund eines
+Liebesfluchs des Meeresgottes [[file:poseidon.org][Poseidon]] brachte er dies
+jedoch nicht übers Herz und sperrte stattdessen seinen eigenen Sohn
+[[file:ikarus.org][Ikarus]] darin ein.

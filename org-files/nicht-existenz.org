@@ -1,0 +1,21 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Nicht-Existenz
+
+*Nicht-Existenz* bezeichnet den Aufenthalt im [[file:aether.org][Aether]]. In
+der griechischen Mythologie existieren verschiedene Formens des Lebens
+nach dem Tod. Nach ihrem Tod gelangen die körperlosen Seelen in
+verschieden Abschnitte des [[file:totenreich.org][Totenreiches]]:
+
+-  Die Mehrheit fristet ihr Dasein im
+   [[file:asphodeliengrund.org][Asphodeliengrund]], nachdem sie ihr Leben
+   vergessen hat.
+-  Nur den allergrößten [[file:helden.org][Helden]] ist es gestattet, ihr Leben
+   nach dem Tod in den [[file:elysische-felder.org][Elysischen Feldern]] zu
+   fristen, einem paradiesischen Ort.
+-  In den [[file:tartarus.org][Tartarus]] gestoßen zu werden ist eine der
+   schlimmsten Bestrafungen. Der Tartarus befindet sich unter dem
+   eigentlichen Totenreich und ist so tief wie der Himmel darüber hoch
+   ist.
+-  Jenseits allen Lebens und aller Existenz befindet sich der
+   [[file:aether.org][Aether]]. Was im Aether sein Dasein fristen muss,
+   nicht-existiert nur noch als Nebel, Luft, Geist oder Schatten.

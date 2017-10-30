@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Herakles
+
+*Herakles* ist der Sohn des [[file:zeus.org][Zeus]] und der
+[[file:alkmene.org][Alkmene]] und gehört zu den größten [[file:helden.org][Helden]]
+[[file:achaia.org][Achaias]]. Er war berühmt für seine physische Stärke.

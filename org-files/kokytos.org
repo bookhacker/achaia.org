@@ -1,0 +1,16 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Kokytos
+
+Der *Kokytos* ist ein Fluss im [[file:totenreich.org][Reich der Toten]]. Der
+Kokytos ist der Fluss des Wehklagens: Wer aus ihm trinkt, erinnert sich
+seines verlorenen Lebens und stimmt in ein niemals enden wollendes
+Klagelied ein.
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Unweit des Flusses Kokytos stoßen [[file:iason.org][Iason]],
+[[file:asklepios.org][Asklepios]], [[file:athene.org][Athene]] und der
+[[file:hermes.org][Hermes]] auf die [[file:argo.org][Argo]].

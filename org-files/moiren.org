@@ -1,0 +1,12 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Moiren
+
+Die *Moiren* sind die drei Schicksalsgöttinnen. Sie weben den
+[[file:lebensfaden.org][Lebensfaden]] eines jeden Wesens. Ob ihrer Macht werden
+sie sogar von den [[file:goetter.org][Göttern]] gefürchtet. Ihre Namen sind
+[[file:klotho.org][Klotho]], [[file:lachesis.org][Lachesis]] und
+[[file:atropos.org][Atropos]].
+
+Sie werden dargestellt als drei Schwestern mit Heuschrecken-Scheren
+statt Händen. Ihre Heimat ist die [[file:insel-der-moiren.org][Insel der
+Moiren]].

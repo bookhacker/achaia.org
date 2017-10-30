@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Medusa
+
+*Medusa* war eine der drei [[file:gorgonen.org][Gorgonen]]. Medusa ist die
+Hauptfigur in [[file:gorgoneion-eine-tragodia.org][Gorgoneion-Eine Tragodia]].

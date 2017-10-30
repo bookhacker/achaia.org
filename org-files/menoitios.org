@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Menoitios
+
+*Menoitios* ist ein [[file:titanen.org][Titan]]. Er ist der Sohn des
+[[file:iapetos.org][Iapetos]] und der [[file:okeaniden.org][Okeanide]]
+[[file:asia.org][Asia]] (in manchen Versionen der [[file:klymene.org][Klymene]]).

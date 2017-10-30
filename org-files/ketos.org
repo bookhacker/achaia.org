@@ -1,0 +1,16 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Ketos
+
+Der *Ketos* ist ein kugelförmiges, mit dutzenden Fangarmen und einem
+riesigen Maul ausgestattetes Seeungeheuer.
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Beim Angriff der Persischen Flotte auf die [[file:kolophon.org][Stadt
+Kolophon]] entfesselt der [[file:poseidon.org][Poseidon]] den Ketos, um die
+feindlichen Schiffe zu zerschmettern. Der Ketos lässt sich jedoch nicht
+kontrollieren und geht sowohl auf den Poseidon als auch auf die
+[[file:kolophon.org][Stadt Kolophon]] los.

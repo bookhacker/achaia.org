@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Hypnos
+
+*Hypnos* ist der [[file:goetter.org][Gott]] des Schlafes. Er ist ein Bruder des
+[[file:thanatos.org][Thanatos]] und der [[file:ker.org][Ker]].

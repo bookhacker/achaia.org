@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Kanthos
+
+*Kanthos* war ein Teilnehmer der [[file:argonautenfahrt.org][Argonautenfahrt]].
+Er starb in [[file:lybien.org][Libyen]].

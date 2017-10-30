@@ -1,0 +1,4 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Krater
+
+Ein *Krater* ist ein Gefäß zum Mischen von Wasser und Wein.

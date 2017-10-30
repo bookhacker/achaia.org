@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Kronos
+
+*Kronos*, genannt "der Krumme". Herr der Zeit und Gatte der
+[[file:rhea.org][Rhea]]. Jüngster der [[file:uraniden.org][Uraniden]] und Vater der
+[[file:kroniden.org][Kroniden]].

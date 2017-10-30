@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Okeaniden
+
+Als *Okeaniden* bezeichnet man die [[file:ide.org][Kinder]] des
+[[file:okeanos.org][Okeanos]]. Okeanos zeugte ausschließlich weibliche
+Nachkommen.

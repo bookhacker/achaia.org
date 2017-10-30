@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Kyklopen
+
+Die *Kyklopen* oder *Zyklopen* sind ein Geschlecht von Riesenwesen. Sie
+sind die einäugigen Kinder des [[file:uranus.org][Uranus]] und der
+[[file:gaia.org][Gaia]].

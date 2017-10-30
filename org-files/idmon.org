@@ -1,0 +1,16 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Idmon
+
+*Idmon* von [[file:kolophon.org][Kolophon]] ist der Vater der
+[[file:arachne.org][Arachne]]. Er war ein Seher und sah seinen eigenen Tod auf
+der [[file:argonautenfahrt.org][Argonautenfahrt]] voraus.
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+In [[file:bithynien.org][Bithynien]] wird Idmon von einem Eber angefallen und
+getötet. Im Sterben liegend bittet er den Heiler
+[[file:asklepios.org][Asklepios]] darum, sich seiner Tochter Arachne
+anzunehmen.

@@ -1,0 +1,17 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Kolophon
+
+*Kolophon* ist eine große Stadt in [[file:ionien.org][Ionien]]. Südlich von
+Kolophon befindet sich das [[file:orakel-von-klaros.org][Orakel von Klaros]].
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Kolophon ist die Heimatstadt der [[file:arachne.org][Arachne]] und des Jungen
+[[file:padmilos.org][Padmilos]]. Als sie von dort aufbrechen, greift die
+Persische Flotte an, die von [[file:poseidon.org][Poseidon]] zerschmettert
+wird. Hierbei entfesselt er den [[file:ketos.org][Ketos]], ein schreckliches
+Seeungeheuer. Im folgenden Kampf wird die Stadt Kolophon
+[[file:untergang-der-stadt-kolophon.org][überschwemmt und vernichtet]].

@@ -1,0 +1,69 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Iason
+
+*Iason* ist der Sohn des [[file:aison.org][Aison]] und Anführer der
+[[file:argonauten.org][Argonauten]].
+
+** Charakter
+   :PROPERTIES:
+   :CUSTOM_ID: charakter
+   :END:
+
+Der Iason verachtet den Tod zutiefst.
+
+** Tod des Iason
+   :PROPERTIES:
+   :CUSTOM_ID: tod-des-iason
+   :END:
+
+Jahre nach dem [[file:argonautenfahrt.org][Argonautenzug]] schlief der Iason im
+Schatten der [[file:argo.org][Argo]] ein und wurde von dem in diesem Moment
+entzweibrechenden Schiff erschlagen.
+
+** Waffen und Ausrüstung
+   :PROPERTIES:
+   :CUSTOM_ID: waffen-und-ausrüstung
+   :END:
+
+Der Iason trägt ein Schwert bei sich.
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Nach dem [[file:ermordung-des-hades.org][Tod des Hades]] erwacht Iason --
+gemeinsam mit einigen anderen Argonauten -- aus seiner Schemengestalt
+und wird stofflich. Er zettelt einen [[file:aufstand-der-toten.org][Aufstand
+gegen den Hades]] an und führt die Argonauten und anderen Toten gegen
+die [[file:festung-des-hades.org][Hadesfestung]].
+
+Kurz darauf trifft er auf [[file:asklepios.org][Asklepios]], der sich ebenfalls
+im [[file:totenreich.org][Totenreich]] aufhält. Sie werden beide von der
+[[file:athene.org][Athene]] auf den [[file:/olymp][Olymp]] geholt, da der
+[[file:zeus.org][Zeus]] im Sterben liegt. [[file:hera.org][Hera]] denkt, dass nur
+Asklepios ihrem Mann helfen kann. Der Iason soll ihn dabei begleiten.
+Nachdem Sie die [[file:arachne.org][Arachne]], den Jungen
+[[file:padmilos.org][Padmilos]] und die [[file:colydon.org][Ziege Colydon]] in
+[[file:myrina.org][Myrina]] eingesammelt haben, machen sie sich auf den Weg zur
+[[file:samothrake.org][Insel Samothrake]]. Asklepios will die
+[[file:hippolaya.org][Hexe Hippolaya]] um Rat fragen.
+
+Als er von der Einführung des Padmilos erfährt, macht er sich gleich auf
+den Weg zum Tempel im Inneren der Insel. Er wird von den
+[[file:zwerge-der-kybele.org][Zwergen]] der [[file:kybele.org][Kybele]] gefangen
+genommen und erwacht auf dem Altar des [[file:attis.org][Attis]]. Kybele hat
+vor, ihn und den Padmilos zu kastrieren. Athene erscheint, bringt die
+Kybele dazu, sich selbst zu töten und rettet damit den Iason und den
+Padmilos.
+
+Sie machen sich auf den Weg zur [[file:insel-der-moiren.org][Insel der
+Moiren]], um an das [[file:moirenblut.org][Moirenblut]] zu gelangen. Auf dem
+Rückweg greift das Monstrum [[file:agdistis.org][Agdistis]] an. Iason entmannt
+es. Die Ziege Colydon stützt sich auf das Monstrum, stößt es über Bord,
+wird aber von dem Agdistis mit in die Tiefe gerissen.
+
+Nachdem sie den Zeus gerettet haben, fordert [[file:hades.org][Hades]] den
+Iason ein. Er reicht ihm einen Kelch mit Wasser aus dem [[file:lethe.org][Fluss
+Lethe]]. Nach dem Iason einen Schluck davon genommen hat, fehlt im jede
+Erinnerung und er verschwindet zwischen den Toten.

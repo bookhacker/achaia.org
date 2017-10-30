@@ -1,0 +1,16 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Obolus
+
+Als *Obolus* bezeichnet man die Münze, mit der man den Fährmann
+[[file:charon.org][Charon]] für die Überfahrt über den Fluss [[file:styx.org][Styx]]
+ins [[file:totenreich.org][Totenreich]] bezahlt. Der Obolus wird den Toten in
+den Mund -- nicht auf die Augen -- gelegt.
+
+** Verlust des Obolus
+   :PROPERTIES:
+   :CUSTOM_ID: verlust-des-obolus
+   :END:
+
+Der Verlust des Obolus ist eines der schlimmsten Dinge, die passieren
+können, und kann dazu führen, dass Tote wiederauferstehen oder sterbende
+Seelen nicht in das Totenreich einkehren können.

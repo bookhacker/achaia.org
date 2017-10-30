@@ -1,0 +1,18 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Iapetos
+
+*Iapetos* ist ein [[file:titanen.org][Titan]]. Sein Beiname lautet "Titan des
+Westens".
+
+** Kinder des Iapetos
+   :PROPERTIES:
+   :CUSTOM_ID: kinder-des-iapetos
+   :END:
+
+-  Mit der Titanin [[file:themis.org][Themis]]
+-  [[file:atlas.org][Atlas]]
+-  Mit der [[file:okeaniden.org][Okeanidin]] [[file:asia.org][Asia]]
+-  [[file:epimetheus.org][Epimetheus]]
+-  [[file:menoitios.org][Menoitios]] (je nach Mythos auch mit der Okeanidin
+   [[file:klymene.org][Klymene]])
+-  [[file:prometheus.org][Prometheus]]

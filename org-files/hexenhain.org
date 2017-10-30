@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Hexenhain
+
+Der *Hexenhain* bezeichnet das Wäldchen auf der [[file:samothrake.org][Insel
+Samothrake]], in dem die [[file:hippolaya.org][Hexe Hippolaya]] ihre Hütte
+stehen hat.

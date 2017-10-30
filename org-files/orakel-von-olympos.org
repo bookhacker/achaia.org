@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Orakel von Olympos
+
+Das *Orakel von Olympos* ist das [[file:orakel.org][Orakel]] im
+[[file:orakelhain.org][Orakelhain]] auf dem Berg [[file:olymp.org][Olymp]].

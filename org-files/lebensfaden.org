@@ -1,0 +1,16 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Lebensfaden
+
+Der *Lebensfaden* oder auch Moirenfaden ist die Manifestation des
+Schicksals eines jeden Wesens. Die [[file:moiren.org][Moiren]] weben ihn,
+weisen ihm seine Länge zu und durchtrennen ihn, wenn die Zeit dafür
+gekommen ist.
+
+** Besondere Eigenschaften
+   :PROPERTIES:
+   :CUSTOM_ID: besondere-eigenschaften
+   :END:
+
+Ein Lebensfaden kann von keinem anderen Wesen als einer Moire berührt
+oder gefasst werden. Bei jedem anderen Wesen lösen sich die Fäden auf
+und bilden sich später wieder neu.

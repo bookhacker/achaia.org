@@ -1,0 +1,13 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Hippe
+
+Eine *Hippe* ist eine sichelähnliche Waffe.
+
+** Ereignisse in Titaneion-Titanenschlacht Episoda 1: Bestienborn
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-titaneion-titanenschlacht-episoda-1-bestienborn
+   :END:
+
+[[file:gaia.org][Gaia]] übergibt dem thrakischen Heerführer [[file:ikas.org][Ikas]]
+eine Hippe, die er ihrem Sohn [[file:kronos.org][Kronos]] bringen soll. Kronos
+verwendet die Hippe, um seinen Vater [[file:uranus.org][Uranus]] zu entmannen.

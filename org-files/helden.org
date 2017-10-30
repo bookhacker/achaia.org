@@ -1,0 +1,20 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Helden
+
+Als *Helden* werden die größten Krieger und Abenteurer
+[[file:achaia.org][Achaias]] bezeichnet. In der Regel sind sie übermenschliche
+Krieger oder erleben Abenteuer jenseits der menschlichen
+Vorstellungskraft.
+
+** Liste der Helden Achaias
+   :PROPERTIES:
+   :CUSTOM_ID: liste-der-helden-achaias
+   :END:
+
+-  [[file:achilles.org][Achilles]]
+-  [[file:hektor.org][Hektor]]
+-  [[file:herakles.org][Herakles]]
+-  [[file:iason.org][Iason]]
+-  [[file:odysseus.org][Odysseus]]
+-  [[file:perseus.org][Perseus]]
+-  [[file:theseus.org][Theseus]]

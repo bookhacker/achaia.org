@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Orakel von Delphi
+
+Das *Orakel von Delphi* befindet sich in der Nähe der Stadt
+[[file:delphi.org][Delphi]] am Hang des Berges [[file:parnass.org][Parnass]]. Es wird
+bewacht von der geflügelten Riesenschlange [[file:python.org][Python]].

@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Kolophonium
+
+*Kolophonium* ist die feste Form eines aus Baumharz gewonnenen Stoffes.
+Es ist benannt nach der [[file:kolophon.org][Stadt Kolophon]].

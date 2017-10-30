@@ -1,0 +1,16 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Hephaistos
+
+*Hephaistos* ist der Gott des Feuers und der Schmiedekunst. Er ist ein
+Sohn des [[file:zeus.org][Zeus]] und der [[file:hera.org][Hera]].
+
+** Vom Hephaistos gefertigte Gegenstände
+   :PROPERTIES:
+   :CUSTOM_ID: vom-hephaistos-gefertigte-gegenstände
+   :END:
+
+-  [[file:pfahl-des-zerberus.org][Pfahl des Zerberus]]
+-  [[file:pantheon.org][Pantheon]]
+-  [[file:athene/#lanze-der-athene.org][Lanze der Athene]]
+-  [[file:athene/#schild-der-athene.org][Schild der Athene]]
+-  [[file:prometheus/#bringer-des-feuers.org][Kette des Prometheus]]

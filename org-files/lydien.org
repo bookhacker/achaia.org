@@ -1,0 +1,11 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Lydien
+
+*Lydien* ist eine Region im westlichen [[file:kleinasien.org][Kleinasien]].
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Der fahrende Händler [[file:ixmos.org][Ixmos]] stammt aus Lydien.

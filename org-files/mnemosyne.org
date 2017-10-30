@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Mnemosyne
+
+*Mnemosyne* ist eine Tochter des [[file:uranus.org][Uranus]] und der
+[[file:gaia.org][Gaia]]. Sie ist durch [[file:zeus.org][Zeus]] die Mutter der
+[[file:musen.org][Musen]].

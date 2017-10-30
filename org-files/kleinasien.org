@@ -1,0 +1,4 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Kleinasien
+
+*Kleinasien* ist der östliche Teil der Welt [[file:achaia.org][Achaia]].

@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Legendäre Artefakte
+
+*Legendäre Artefakte* sind Gegenstände, die mit herausragenden
+Eigenschaften und [[file:talent.org][Talenten]] versehen sind. Dies können
+Waffen, Rüstungen oder alle möglichen anderen Gegenstände sein.

@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Maia
+
+Die [[file:plejaden.org][Plejade]] *Maia* ist die Mutter des Götterboten
+[[file:hermes.org][Hermes]].

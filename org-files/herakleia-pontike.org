@@ -1,0 +1,7 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Herakleia Pontike
+
+*Herakleia Pontike* ist eine von den [[file:argonauten.org][Argonauten]] auf
+dem Grab des [[file:idmon.org][Idmon]] gegründete Stadt in
+[[file:bithynien.org][Bithynien]]. Nach dem Tode des Idmon ließen die
+[[file:goetter.org][Götter]] einen Ölbaum aus seinem Grab sprießen.

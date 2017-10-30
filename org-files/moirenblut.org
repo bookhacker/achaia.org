@@ -1,0 +1,21 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Moirenblut
+
+Das *Blut der Moiren* ist ein [[file:maechtige-artefakte.org][Mächtiges
+Artefakt]].
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Die [[file:hippolaya.org][Hexe Hippolaya]] erzählt dem Heiler
+[[file:asklepios.org][Asklepios]], dass der im Sterben liegende Göttervater
+[[file:zeus.org][Zeus]] nur durch das Blut der [[file:moiren.org][Moiren]] gerettet
+werden kann.
+
+Nach einigem Hin und Her erreichen Asklepios, [[file:iason.org][Iason]], das
+Mädchen [[file:arachne.org][Arachne]] mit ihrer Ziege [[file:colydon.org][Colydon]]
+und der Junge [[file:padmilos.org][Padmilos]] die [[file:insel-der-moiren.org][Insel
+der Moiren]]. Dort nehmen sie mit Hilfe der Hippolaya das Moirenblut
+gewaltsam an sich und die Hexe mischt ihnen das Gegengift für den Zeus.

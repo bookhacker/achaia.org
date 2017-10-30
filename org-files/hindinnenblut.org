@@ -1,0 +1,17 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Hindinnenblut
+
+*Hindinnenblut* ist ein [[file:maechtige-artefakte.org][Mächtiges Artefakt]].
+Es ist in der Lage, einen [[file:goetter.org][Gott]] zu töten.
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Auf dem Weg nach [[file:myrina.org][Myrina]] ist es Hindinnenblut, das der
+Heiler [[file:asklepios.org][Asklepios]] [[file:hadesbrand.org][auf die Klinge]]
+träufelt, als er von dem Mädchen [[file:arachne.org][Arachne]] überrascht wird.
+
+[[file:zeus.org][Göttervater Zeus]] wurde ebenfalls mit Hindinnenblut
+vergiftet.

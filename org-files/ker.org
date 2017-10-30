@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Ker
+
+*Ker* ist die Göttin des gewaltsamen Todes. Sie ist die Schwester des
+[[file:hypnos.org][Hypnos]] und des [[file:thanatos.org][Thanatos]].

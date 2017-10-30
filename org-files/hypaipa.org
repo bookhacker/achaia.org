@@ -1,0 +1,15 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Hypaipa
+
+*Hypaipa* ist eine Stadt in [[file:lydien.org][Lydien]].
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+in Hypaipa findet der Wettbewerb zwischen [[file:athene.org][Athene]] und
+[[file:arachne.org][Arachne]] statt.
+
+Hierhin führt [[file:asklepios.org][Asklepios]] die Arachne, um sie ihrer neuen
+Lehrmeisterin [[file:orke.org][Orke]] zu übergeben.

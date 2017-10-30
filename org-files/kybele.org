@@ -1,0 +1,19 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Kybele
+
+*Kybele* war eine [[file:kabire.org][Kabire]] und die Geliebte des
+[[file:attis.org][Attis]]. Siehe auch: [[file:kybele-mythos.org][Kybele (Mythos)]].
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Kybele haust am [[file:tempel-des-attis.org][Tempel des Attis]] und betrauert
+ihren Geliebten. Als ihre [[file:zwerge-der-kybele.org][Zwerge]] den
+[[file:padmilos.org][Padmilos]] überwältigen, sieht sie ihre Chance gekommen,
+ihren Geliebten wieder ins Leben zurückzuholen. Kurz darauf bringt sie
+noch den [[file:iason.org][Iason]] in ihre Gewalt. Als sie den Padmilos auf dem
+Opferaltar kastrieren will, um den Attis wiederzuerwecken, erscheint die
+[[file:athene.org][Athene]], tötet ihre Zwerge und bringt Kybele dazu, sich
+selbst umzubringen.

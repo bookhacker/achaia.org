@@ -1,0 +1,9 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Iolkos
+
+*Iolkos* ist eine Stadt in [[file:thessalien.org][Thessalien]]. Der Legende
+nach brach [[file:iason.org][Iason]] von hier aus auf zu seiner
+[[file:argonautenfahrt.org][Suche]] nach dem [[file:hgoldenen-vlies.org][Goldenen
+Vlies]].
+
+Sein Vater [[file:aison.org][Aison]] war König von Iolkos.

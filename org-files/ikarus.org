@@ -1,0 +1,12 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Ikarus
+
+*Ikarus* war der Sohn des [[file:daedalus.org][Daedalus]].
+
+** Ereignisse in Ikareion-Taurusflucht
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-ikareion-taurusflucht
+   :END:
+
+In [[file:ikareion-taurusflucht.org][Ikareion-Taurusflucht]] lässt sein Vater
+ihn im [[file:labyrinth-des-minotaurus.org][Labyrinth des Minotaurus]] zurück.

@@ -1,0 +1,14 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Kap Tainaron
+
+*Kap Tainaron* bezeichnet die südlichste Spitze der Halbinsel
+[[file:peloponnes.org][Peloponnes]].
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Bei Kap Tainaron verlassen [[file:iason.org][Iason]],
+[[file:asklepios.org][Asklepios]] und die anderen an Bord der [[file:argo.org][Argo]]
+das [[file:totenreich.org][Totenreich]].

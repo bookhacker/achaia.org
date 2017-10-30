@@ -1,0 +1,19 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Koios
+
+*Koios* ist ein [[file:titanen.org][Titan]]. Sein Beiname lautet "Titan des
+Nordens". Er ist der Gatte der Titanin [[file:phoibe.org][Phoibe]].
+
+** Ereignisse in Titaneion-Titanenschlacht Episoda 1: Bestienborn
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-titaneion-titanenschlacht-episoda-1-bestienborn
+   :END:
+
+Koios erklärt sich - im Gegensatz zu seiner Gattin Phoibe - bereit, auf
+Seiten des [[file:kronos.org][Kronos]] zu kämpfen.
+
+#+BEGIN_QUOTE
+  Was bringt mein Weib mir Schande übers Haus? / Wisse mich an deiner
+  Seit, / trotz allem, was die Weiber spinnen. / Gemeinsam will ich
+  niederringen, / was immer sich über Titanenstamm erheben will.
+#+END_QUOTE
