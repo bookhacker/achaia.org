@@ -1,0 +1,114 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Athene
+
+*Athene* ist eine Tochter des [[file:zeus.org][Zeus]] und der
+[[file:metis.org][Metis]]. Sie ist die Göttin der Weisheit, der Kunst und des
+Handwerks.
+
+** Ursprung, Geburt und Metismord
+   :PROPERTIES:
+   :CUSTOM_ID: ursprung-geburt-und-metismord
+   :END:
+
+Zeus zeugte mit der Metis die Athene und ihren Bruder. Da ein Orakel
+prophezeit hatte, dass die Tochter ihm ebenbürtig sei und der Sohn ihn
+übertreffen würde, verschlang Zeus die Metis in der Hoffnung, das
+Eintreten der Prophezeiung dadurch verhindern zu können. Athene schaffte
+es jedoch, sich aus dem Mutterleib zu befreien und von innen gegen den
+Kopf des Zeus zu drücken. Hierbei war sie gezwungen, die noch unverdaute
+Mutter zu töten. Zeus, der daraufhin über heftige Kopfschmerzen klagte,
+wandte sich an seinen Sohn [[file:hephaistos.org][Hephaistos]], der seinen
+Schädel mit einem Hammer spaltete. Hervor sprang die Athene in voller
+Kampfmontur: Helm, Harnsich, Schild und Lanze. Ihr Bruder blieb
+ungeboren.
+
+** Waffen und Ausrüstung
+   :PROPERTIES:
+   :CUSTOM_ID: waffen-und-ausrüstung
+   :END:
+
+Athenes Waffe ist der Speer. Sie trägt einen Schild, einen goldenen
+Harnisch und einen Helm. Sie kann die Waffen in ihren Händen entstehen
+und verschwinden lassen, wie es ihr beliebt.
+
+*** Lanze der Athene
+    :PROPERTIES:
+    :CUSTOM_ID: lanze-der-athene
+    :END:
+
+Der Speer der Athene ist nahezu unzerstörbar. Nur die stärksten Monster
+sind in der Lage, ihren Schaft zu zerbrechen. Athene kann ihre Lanze
+nicht beliebig erscheinen und verschwinden lassen. So ist sie darauf
+angewiesen, die Lanze nach dem Kampf wieder an sich zu nehmen oder sich
+eine neue fertigen zu lassen. Sie kann die Lanze nicht einfach
+verschwinden lassen und in ihren Händen neu entstehen lassen. Die Lanze
+der Athene regeneriert nicht, d. h. obwohl nahezu unzerstörbar und sich
+nicht abnutzend muss eine entzwei gebrochene Lanze repariert oder neu
+angefertigt werden.
+
+*** Der goldene Harnisch
+    :PROPERTIES:
+    :CUSTOM_ID: der-goldene-harnisch
+    :END:
+
+Der goldene Harnisch ist unzerstörbar und sogar in der Lage, die
+nekromantischen Geschosse des Hades abzuwehren (s.
+Arachneion-Pallashass).
+
+*** Der Schild der Athene
+    :PROPERTIES:
+    :CUSTOM_ID: der-schild-der-athene
+    :END:
+
+Der [[file:spiegelschild-der-athene.org][Schild]] ist der, mit dem auch
+[[file:perseus.org][Perseus]] das Labyrinth der [[file:medusa.org][Medusa]] betritt
+(s. [[file:gorgoneion-eine-tragodia.org][Gorgoneion-Eine Tragodia]]).
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+*** Der sterbende Zeus
+    :PROPERTIES:
+    :CUSTOM_ID: der-sterbende-zeus
+    :END:
+
+Athene wird von [[file:hera.org][Hera]] ausgesandt, den im Sterben liegenden
+Zeus zu retten. In [[file:hypaipa.org][Hypaipa]] trifft sie auf
+[[file:hermes.org][Hermes]] und [[file:autolykos.org][Autolykos]] und berichtet ihnen
+vom sterbenden Zeus. Hermes sagt seine Hilfe zu.
+
+*** Die Hybris der Arachne
+    :PROPERTIES:
+    :CUSTOM_ID: die-hybris-der-arachne
+    :END:
+
+Die Hybris der [[file:arachne.org][Arachne]], sich für die größte Weberin zu
+halten, sowie ihre Ablehnung der [[file:goetter.org][Götter]] und die
+Zerstörung des Athene-Altars im Haus der [[file:orke.org][Orke]] rufen die
+Athene auf den Plan. Sie erscheint als alte Frau, wird von der Arachne
+jedoch erkannt. Athene schlägt der Arachne einen Wettstreit vor: Jede
+von ihnen soll einen Teppich weben und das Volk Hypaipas soll
+entscheiden, wer den schöneren Teppich gewebt hat, ohne jedoch zu
+wissen, wer welchen Teppich webte. Arachne willigt ein.
+
+*** Der Wettstreit der Athene und der Arachne
+    :PROPERTIES:
+    :CUSTOM_ID: der-wettstreit-der-athene-und-der-arachne
+    :END:
+
+Der von Athene gewebte Teppich zeigt die Übergabe der Stadt
+[[file:athen.org][Athen]] an die Athene durch ihren Onkel
+[[file:poseidon.org][Poseidon]]: Beide Götter buhlten um eine Stadt. Wer dieser
+Stadt das nützlichere Geschenk machte, sollte sie erhalten. Athene
+stiftete einen Olivenbaum, Poseidon hingegen einen Salzwasser-Brunnen,
+wodurch Athene den Wettstreit für sich entscheiden konnte und ihr den
+Namen "Athen" gab. Athene kann den Wettstreit nicht eindeutig für sich
+entscheiden und will die Arachne zur Strafe -- und aus purer
+Fassungslosigkeit und Wut -- in eine Spinne verwandeln. Die Hexe
+[[file:hippolaya.org][Hippolaya]] erscheint unerkannt und wirft eine Phiole
+Zeusblut in den Verwandlungsstrahl, woraufhin sich die Arachne in eine
+gewaltige Spinnenbestie verwandelt, welche die Athene im darauffolgenden
+Zweikampf beinahe besiegt. Athene kann sich gerade noch rechtzeitig
+zurückziehen und verschwindet.

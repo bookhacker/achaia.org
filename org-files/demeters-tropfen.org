@@ -1,0 +1,14 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Demeters Tropfen
+
+*Demeters Tropfen* ist der Name einer Schenke im Hafen zu
+[[file:myrina.org][Myrina]]. Sie ist benannt nach der [[file:goettin.org][Göttin]]
+[[file:demeter.org][Demeter]], der Göttin der Ernte und der Fruchtbarkeit.
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+In der Schenke Demeters Tropfen prahlt ein unbekannter Zecher mit seinem
+neu erlangten Reichtum. Er wird später tot in der Stadt aufgefunden.

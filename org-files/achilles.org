@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Achilles
+
+*Achilles* ist ein legendärer Krieger und Sohn des [[file:peleus.org][Peleus]].
+Gemeinsam mit [[file:herakles.org][Herakles]] war er der größte Held
+[[file:achaia.org][Achaias]].

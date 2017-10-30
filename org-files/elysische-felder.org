@@ -1,0 +1,7 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Die Elysischen Felder
+
+Die *Elysischen Felder* sind nur den allergrößten [[file:helden.org][Helden]]
+vorbehalten. Sie sind ein Ort ewiger Glückseligkeit. Nicht einmal dem
+berühmten [[file:herakles.org][Herakles]] oder [[file:achilles.org][Achilles]] war es
+vergönnt, ihr Dasein in den Elysischen Feldern zu fristen.

@@ -1,0 +1,46 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Arachne
+
+*Arachne* ist die Tocher des [[file:idmon.org][Idmon]] von
+[[file:kolophon.org][Kolophon]]. Als größte Weberin aller Zeiten erhob sie sich
+über die [[file:athene.org][Athene]] und wurde von dieser in eine Spinne
+verwandelt.
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Der Heiler [[file:asklepios.org][Asklepios]] sucht Arachne auf, um ihr vom Tod
+ihres Vaters Idmon zu berichten. Er erzählt davon, ihrem Vater einen
+Schwur geleistet zu haben, sich ihrer anzunehmen und dass er sie in die
+Stadt [[file:hypaipa.org][Hypaipa]] führen will. Eines Nachts überrascht
+Arachne Asklepios bei einem finsteren Ritual: Er träufelt eine
+Flüssigkeit auf eine [[file:hadesbrand.org][Klinge]]. Darauf angesprochen
+behauptet Asklepios, lediglich ein Operationsbesteck anzufertigen.
+
+Über [[file:myrina.org][Myrina]] und [[file:samothrake.org][Samothrake]] erreichen sie
+die [[file:insel-der-moiren.org][Insel der Moiren]] und gelangen an das
+Gegenmittel für den vergifteten [[file:/zeus][Zeus]].
+
+In Hypaipa angekommen, übergibt Asklepios Arachne ihrer neuen
+Lehrmeisterin [[file:orke.org][Orke]]. Arachne ist hier jedoch sehr
+unglücklich, da sie nichts mit der Frömmigkeit der Orke gegenüber der
+Göttin Athene anfangen kann.
+
+Sie zerstört den Altar der Athene im Haus der Orke und rennt weg. Auch
+eine Priesterin der Athene kann Arachne nicht umstimmen. Sie verweigert
+jede Nahrung und entsagt den Göttern. Schließlich kommt es zum
+Wettstreit zwischen Arachne und Athene: Sie wollen herausfinden, wer die
+größte Weberin ist. Als Athene den Sieg nicht eindeutig für sich
+verbuchen kann, verwandelt sie die Arachne in eine Spinne. Die Hexe
+[[file:hippolaya.org][Hippolaya]] schleicht sich in das Publikum und wirft eine
+Phiole in den Verwaltungsstrahl, woraufhin sich die Arachne in eine
+schreckliche Spinnenbestie verwandelt.
+
+Die Bestie flüchtet zunächst in einen Tempel der Athene, wehrt Wachen ab
+und beginnt irgendwann, Teile der Stadt in wunderschöne Kunstwerke aus
+Spinnweben einzuhüllen. Als sie damit fertig ist, stirbt die Bestie und
+verwandelt sich in das Mädchen Arachne zurück. Der Schemen ihres Vaters
+Idmon erscheint, hebt sie vom Boden auf und führt sie zum
+[[file:hades.org][Hades]] und in das Totenreich.

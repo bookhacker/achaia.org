@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Der Frevel des Asklepios
+
+Der *Frevel des Asklepios* bezeichnet das widernatürliche ins Leben
+Zurückholen eines oder mehrerer Toter durch den Heiler
+[[file:asklepios.org][Asklepios]].

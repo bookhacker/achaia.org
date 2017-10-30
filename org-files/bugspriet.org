@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Bugspriet
+
+Das (oder: /der/) *Bugspriet* ist die hölzerne hervorragende Spitze
+eines Schiffes.

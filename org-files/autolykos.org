@@ -1,0 +1,38 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Autolykos
+
+*Autolykos* ist der Sohn des [[file:hermes.org][Hermes]] und der
+[[file:chione.org][Chione]]. Er ist der König der Diebe.
+
+** Talente
+   :PROPERTIES:
+   :CUSTOM_ID: talente
+   :END:
+
+Neben seinen überragenden Fähigkeiten als Dieb ist Autolykos in der
+Lage, Gegenstände zu verwandeln und dadurch wertlos erscheinen zu
+lassen.
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+*** In Myrina
+    :PROPERTIES:
+    :CUSTOM_ID: in-myrina
+    :END:
+
+Autolykos wird von seinem Vater überrascht, der ihm von der Münze und
+dem Fluch berichtet, der auf ihr liegt. Wenig später erscheint der
+Schemen des [[file:idmon.org][Idmon]]. Dieser stellt Autolykos nach, um wieder
+an seine [[file:obulus.org][Obolus-Münze]] zu kommen.
+
+*** In Hypaipa
+    :PROPERTIES:
+    :CUSTOM_ID: in-hypaipa
+    :END:
+
+Autolykos erfährt durch [[file:asklepios.org][Asklepios]] vom
+[[file:tod-des-hermes.org][Tod seines Vaters]] und beschließt, sich auf die
+Suche nach ihm zu machen.

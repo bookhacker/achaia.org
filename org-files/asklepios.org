@@ -1,0 +1,76 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Asklepios
+
+*Asklepios* ist ein legendärer Heiler und Alchemist und Teilnehmer der
+[[file:argonautenfahrt.org][Argonautenfahrt]].
+
+In seinem Gewand führt er Phiolen mit allen möglichen Tinkturen mit
+sich. Die Phiolen sind aus seinem ganz besonderen Glas gefertigt,
+welches dafür sorgt, dass sie nicht klimpern.
+
+Asklepios eilt der Ruf voraus, selbst die Toten wieder zum Leben
+erwecken zu können. Niemand weiß, ob und wie viele Tote er dem
+[[file:totenreich.org][Totenreich]] entrissen hat.
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Der sterbende [[file:idmon.org][Idmon]] bittet Asklepios, sich seiner Tochter
+[[file:arachne.org][Arachne]] anzunehmen. Daraufhin geht Asklepios nach
+[[file:Kolophon.org][Kolophon]], wo er die Arachne und den Jungen
+[[file:padmilos.org][Padmilos]] mit sich nimmt und über [[file:myrina.org][Myrina]] in
+die Stadt [[file:hypaipa.org][Hypaipa]] führen will. Vor den Toren der Stadt
+wartet bereits der [[file:hades.org][Hades]] auf ihn, und berichtet ihm, dass
+er gekommen ist, um ihn aufgrund seines schlimmen Frevels mit ins
+Totenreich zu nehmen.
+
+In Myrina will Asklepios den Schemen des Idmon treffen, dieser soll den
+Hades töten, da Asklepios ihm nicht ins Totenreich folgen möchte. Der
+Schemen jedoch kann den Hades nicht töten, wodurch Asklepios gezwungen
+ist, ihm selbst die [[file:hadesbrand.org][Klinge]] in die Brust zu treiben.
+Der Hades entsendet daraufhin den Höllenhund [[file:zerberus.org][Zerberus]].
+Dieser zerreißt den Asklepios vor den Augen der Arachne und des
+Padmilos.
+
+Asklepios findet sich daraufhin im Totenreich wieder und wird Zeuge des
+[[file:aufstand-der-toten.org][Aufstands der Toten]]. Im Totenreich stößt er
+auf den [[file:iason.org][Iason]], später werden Iason und Asklepios von der
+[[file:hera.org][Hera]] gebeten, das Gegenmittel für den vergifteten und im
+Sterben liegenden [[file:zeus.org][Zeus]] aufzutreiben.
+
+Auf der [[file:samothrake.org][Insel Samothrake]] sucht Asklepios dazu seine
+alte Bekannte, die [[file:hippolaya.org][Hexe Hippolaya]], auf. Diese erzählt
+ihm, dass das einzige Mittel, das den Zeus heilen kann, das
+[[file:moirenblut.org][Blut]] der [[file:moiren.org][Moiren]] ist.
+
+Gemeinsam brechen Asklepios und seine Gefährten Iason, Arachne, der
+Junge Padmilos und die [[file:colydon.org][Ziege Colydon]] zur
+[[file:insel-der-moiren.org][Insel der Moiren]] auf. Dort gelangen sie an das
+Blut und an das Gegenmittel.
+
+Hera und [[file:athene.org][Athene]] erscheinen zwischenzeitlich an Deck der
+[[file:argo.org][Argo]] und verlangen von Asklepios, ihnen das Gegenmittel für
+den Zeus zu übergeben. Asklepios überreicht ihnen eine falsche Phiole,
+woraufhin die Göttinnen verschwinden.
+
+Nachdem der Hades sie auf den [[file:olymp.org][Olymp]] gebracht hat und sie
+dem Zeus das richtige Gegenmittel verabreicht haben, führt Asklepios
+Arachne und Padmilos nach Hypaipa. Dort übergibt er sie ihrer neuen
+Lehrmeisterin [[file:orke.org][Orke]].
+
+Später erfährt er von dem Wettkampf zwischen Arachne und Athene und
+nimmt sich vor, solange noch in der Stadt zu bleiben, bevor er den Hades
+vor den Toren der Stadt aufsuchen will.
+
+Kurz vor dem Wettbewerb berichtet er dem [[file:autolykos.org][Autolykos]] noch
+von dem Tod seines Vaters [[file:hermes.org][Hermes]], von dem Hera ihn
+unterrichtet hat.
+
+Nach dem Tod der Spinnenbestie verlässt Asklepios die Stadt Hypaipa. Er
+begegnet einem [[file:zeus.org][unerkannten Wanderer]] und will sich
+schließlich dem bereits auf ihn wartenden Hades übergeben. Bevor er den
+Hades jedoch erreichen kann, kommt ein kleines Mädchen herbeigerannt,
+flüstert ihm etwas ins Ohr, nimmt ihn bei der Hand und führt ihn weg vom
+Weg und vom Hades.

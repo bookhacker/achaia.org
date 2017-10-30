@@ -1,0 +1,9 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Asterios
+
+*Asterios* war ein niederer Herrscher auf [[file:kreta.org][Kreta]] zur Zeit
+des [[file:minos.org][Königs Minos]] und Gemahl der [[file:europa.org][Europa]].
+
+Darüber hinaus ist "Asterios" auch der geheime, wahre Name des
+[[file:minotaurus.org][Minotaurus]] (auch wenn Asterios nicht der leibliche
+Vater der Bestie ist).

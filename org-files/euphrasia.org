@@ -1,0 +1,4 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Euphrasia
+
+*Euphrasia* ist der Fachbegriff für [[file:augentrost.org][Augentrost]].

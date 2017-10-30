@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Fach (Weberei)
+
+Das *Fach* bezeichnet man den Zwischenraum zwischen den an einem
+Webstuhl auseinander gehobenen Fäden. Durch das Fach wird der
+[[file:schuetze-weberei.org][Schütze]] geworfen.

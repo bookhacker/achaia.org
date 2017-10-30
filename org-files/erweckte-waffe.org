@@ -1,0 +1,17 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Erweckte Waffe
+
+*Erweckte Waffen* sind Waffen, die mit magischen [[file:talent.org][Talenten]]
+ausgestattet wurden. Dies kann durch das Beträufeln mit Flüssigkeiten
+(Giften) geschehen, häufig wird auch der Geist eines
+[[file:legendaere-artefakte.org][Legendäre Artefakts]] in die Waffe
+hineinbeschworen. Es sind aber auch Mischformen möglich.
+
+** Der Name
+   :PROPERTIES:
+   :CUSTOM_ID: der-name
+   :END:
+
+Ein nicht unwichtiger Teil der Erweckung ist das Vergeben eines Namens.
+Ein Großteil der Mächtigkeit einer Waffe ergibt sich aus dem Namen der
+Waffe.

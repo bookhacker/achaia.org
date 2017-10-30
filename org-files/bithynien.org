@@ -1,0 +1,15 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Bithynien
+
+*Bithynien* ist eine Landschaft im Nordwesten
+[[file:kleinasien.org][Kleinasiens]].
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+In Bityhnien wird der Seher [[file:idmon.org][Idmon]] während der
+[[file:argonautenfahrt.org][Argonautenfahrt]] von einem Eber tödlich verwundet.
+Hier entringt er dem Heiler [[file:asklepios.org][Asklepios]] den Schwur, sich
+seiner Tochter [[file:arachne.org][Arachne]] anzunehmen.

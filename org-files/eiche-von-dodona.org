@@ -1,0 +1,7 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Die Eiche von Dodona
+
+Die *Eiche von Dodona* wuchs im Innenhof des
+[[file:orakel-von-epirus.org][Orakels]] von [[file:epirus.org][Epirus]]. Ihr Holz
+wurde von [[file:athene.org][Athene]] in das Bugholz der [[file:argo.org][Argo]]
+eingearbeitet, wodurch das Schiff sprechen konnte.

@@ -1,0 +1,15 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Die Festung des Hades
+
+Die *Festung des Hades* ist der Sitz des [[file:hades.org][Totengottes]] im
+Zentrum des [[file:asphodeliengrund.org][Asphodeliengrundes]].
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Der Schatten des [[file:iason.org][Iason]] führt einen
+[[file:aufstand-der-toten.org][Aufstand der Toten]] an. Beim Versuch, die
+Festung des Hades zu stürmen, wird Welle um Welle der Toten vom auf den
+Zinnen erscheinenden Hades zurückgeworfen.

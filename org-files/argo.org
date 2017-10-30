@@ -1,0 +1,17 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Argo
+
+Die *Argo* war das Schiff der [[file:argonauten.org][Argonauten]] und das
+schnellste Schiff in ganz [[file:achaia.org][Achaia]]. In das Bugholz waren von
+der [[file:athene.org][Athene]] Stücke der [[file:eiche-von-dodona.org][Eiche von
+Dodona]] verbaut, durch die die Argo sogar zu sprechen in der Lage war.
+
+Als [[file:iason.org][Iason]] einmal im Schatten der Argo einschlief, brach das
+Schiff auseinander und erschlug den Argonautenführer.
+
+** Siehe auch
+   :PROPERTIES:
+   :CUSTOM_ID: siehe-auch
+   :END:
+
+-  [[file:argonautenfahrt.org][Argonautenfahrt]]

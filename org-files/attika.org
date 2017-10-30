@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Attika
+
+*Attika* ist eine Landschaft in Zentralgriechenland auf der Attischen
+Halbinsel. Der Erfinder [[file:daedalus.org][Daedalus]] unterhielt hier eines
+seiner Labore.

@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Echnixa
+
+*Echnixa* ist eine mit dem Erfinder [[file:perdix.org][Perdix]] heimlich im
+Untergrund der Stadt [[file:paphos.org][Paphos]] lebende
+[[file:amazone.org][Amazone]]. Sie ist die Handlangerin des Perdix.

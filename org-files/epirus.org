@@ -1,0 +1,9 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Epirus
+
+*Epirus* ist eine Region im Nordwestens [[file:achaia.org][Achaias]]. Hier
+befand sich das älteste und zugleich eines der berühmtesten
+[[file:orakel-von-epirus.org][Orakel-Heiligtümer]], in dessen Hof die
+[[file:eiche-von-dodona.org][Eiche von Dodana]] wuchs, von dessen Holz
+[[file:athene.org][Athene]] ein Stück in den Bug der [[file:argo.org][Argo]]
+einarbeitete, wodurch das Schiff sprechen konnte.

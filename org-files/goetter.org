@@ -1,0 +1,58 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Die Götter
+
+Die *Götter* sind die neben den [[file:titanen.org][Titanen]] und
+[[file:protogenoi.org][Protogenoi]] mächtigsten Wesen [[file:achaia.org][Achaias]].
+
+** Kroniden: Kinder des Kronos
+   :PROPERTIES:
+   :CUSTOM_ID: kroniden-kinder-des-kronos
+   :END:
+
+-  [[file:demeter.org][Demeter]]
+-  [[file:hades.org][Hades]]
+-  [[file:hera.org][Hera]]
+-  [[file:hestia.org][Hestia]]
+-  [[file:poseidon.org][Poseidon]]
+-  [[file:zeus.org][Zeus]]
+
+** Weitere Götter
+   :PROPERTIES:
+   :CUSTOM_ID: weitere-götter
+   :END:
+
+-  [[file:ares.org][Ares]]
+-  [[file:aphrodite.org][Aphrodite]]
+-  [[file:athene.org][Athene]]
+-  [[file:hermes.org][Hermes]]
+
+** Besonderes Talente
+   :PROPERTIES:
+   :CUSTOM_ID: besonderes-talente
+   :END:
+
+*** Machtvereinigung
+    :PROPERTIES:
+    :CUSTOM_ID: machtvereinigung
+    :END:
+
+Götter sind in der Lage, ihre Kräfte zu weit stärkeren Mächten zu
+vereinen (wie z. B. in
+[[file:archneion-pallashass.org][Arachneion-Pallashass]], als Athene, Hades und
+Hermes ihre Kräfte vereinen, um den Aufstand der Toten niederzuwerfen).
+
+*** Manifestation
+    :PROPERTIES:
+    :CUSTOM_ID: manifestation
+    :END:
+
+Die Götter können sich durch [[file:manifestation.org][Manifestation]]
+innerhalb der [[file:goettliche-sphaere.org][Göttlichen Sphäre]] frei bewegen.
+
+** Siehe auch
+   :PROPERTIES:
+   :CUSTOM_ID: siehe-auch
+   :END:
+
+-  [[file:kronos.org][Kronos]]
+-  [[file:kroniden.org][Kroniden]]

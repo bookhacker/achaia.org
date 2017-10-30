@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Eurymedon
+
+*Eurymedon* ist einer der [[file:zwerge-der-kybele.org][vier Zwerge]] der
+[[file:kybele.org][Kybele]]. Er ist schrecklich anzusehen, seine Haut eine
+Mischung aus Lava und rohem Fleisch.

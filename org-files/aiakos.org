@@ -1,0 +1,4 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Aiakos
+
+*Aiakos* ist einer der drei [[file:richter-der-toten.org][Richter der Toten]].

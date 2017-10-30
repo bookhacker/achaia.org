@@ -1,0 +1,20 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Attis
+
+*Attis* ist der Bruder und Geliebte der [[file:kybele.org][Kybele]].
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Aus dem Leichnam des Attis und dem Leichnam der Kybele erweckt die
+[[file:hippolaya.org][Hexe Hippolaya]] das Monstrum [[file:agdistis.org][Agdistis]]
+wieder zum Leben.
+
+** Siehe auch
+   :PROPERTIES:
+   :CUSTOM_ID: siehe-auch
+   :END:
+
+-  [[file:kybele-mythos.org][Kybele (Mythos)]]

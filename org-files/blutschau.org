@@ -1,0 +1,15 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Blutschau
+
+Alchimisten, Hexen und andere Gelehrte sind in der Lage, in Blut Muster
+zu erkennen, die sie auf Krankheiten, Vergiftungen und andere Leiden
+hinweisen.
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Die Hexe [[file:hippolaya.org][Hippolaya]] erkennt sofort, dass es sich bei dem
+Blut, welches [[file:asklepios.org][Asklepios]] ihr bringt, um
+[[file:zeusblut.org][etwas ganz Besonderes]] handeln muss.

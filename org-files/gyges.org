@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Gyges
+
+*Gyges* ist einer der [[file:hekatoncheiren.org][Hekatoncheiren]] im Bauch der
+Allmutter [[file:gaia.org][Gaia]].

@@ -1,0 +1,4 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Abanten
+
+*Abanten* ist eine Bezeichnung für die Bewohner [[file:euboea.org][Euböas]].

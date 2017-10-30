@@ -1,0 +1,34 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Charon
+
+*Charon* ist der Fährmann der Toten. Er bringt die Verstorbenen über den
+[[file:styx.org][Fluss Styx]].
+
+** Aussehen
+   :PROPERTIES:
+   :CUSTOM_ID: aussehen
+   :END:
+
+Charon trägt ein schwarzes Gewand. Seine Haut ist so bleich, dass er in
+der Finsternis des [[file:totenreich.org][Totenreiches]] zu leuchten scheint.
+
+** Weitere Eigenschaften
+   :PROPERTIES:
+   :CUSTOM_ID: weitere-eigenschaften
+   :END:
+
+Charon ist äußerst lichtscheu.
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Charon wird von [[file:athene.org][Athene]] gebeten, ihnen zu erklären, wie die
+[[file:argo.org][Argo]] in den [[file:hades-totenreich.org][Hades]] gelangte. Charon
+verweigert seine Hilfe zunächst aus Angst, der [[file:hades.org][Hades]] könnte
+ihm seine Mithilfe übel nehmen und weist sie an, selber herauszufinden,
+wie die Argo an das Ufer des [[file:kokytos.org][Kokytos]] gelangte. Als Athene
+und die anderen herausfinden, dass der [[file:zerberus.org][Zerberus]] die Argo
+bis zum Kokytos gezogen hat, sagt Charon seine Hilfe letztendlich doch
+zu.

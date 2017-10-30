@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Euripides
+
+*Euripides* ist einer der drei großen
+[[file:chor-der-dramatiker.org][Dramatiker]].

@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Äolische Straße
+
+Die *Äolische Straße* verbindet die Regionen [[file:lydien.org][Lydien]] und
+[[file:aeolien.org][Äolien]].

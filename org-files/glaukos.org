@@ -1,0 +1,13 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Glaukos
+
+*Glaukos* ist die Eule der [[file:athene.org][Athene]].
+
+** Ereignisse in Titaneion-Titanenschlacht Epsioda 1: Bestienborn
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-titaneion-titanenschlacht-epsioda-1-bestienborn
+   :END:
+
+Nach einer Rauferei in der Schenke [[file:zum-titanischen-trunke.org][Zum
+Titanischen Trunke]] zu [[file:athen.org][Athen]] wurde sie von der Göttin
+vorerst aus ihren Diensten entlassen.

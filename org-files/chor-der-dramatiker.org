@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Der Chor der Dramatiker
+
+Der *Chor der Dramatiker* besteht aus den drei großen Dichtern
+[[file:aischylos.org][Aischylos]], [[file:euripides.org][Euripides]] und
+[[file:sophokles.org][Sophokles]].

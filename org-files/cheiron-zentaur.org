@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Cheiron (Zentaur)
+
+*Cheiron* ist ein [[file:zentaur.org][Zentaur]] und sowohl der Lehrmeister des
+[[file:iason.org][Iason]], als auch des [[file:asklepios.org][Asklepios]] sowie
+[[file:schueler-des-cheiron.org][dutzender weiterer Helden]].

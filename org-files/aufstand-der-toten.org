@@ -1,0 +1,35 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Der Aufstand der Toten
+
+Der *Aufstand der Toten* ist die direkte Nachwirkung der
+[[file:ermordung-des-hades.org][Ermordung des Hades]].
+
+** Das Erwachen der Schatten
+   :PROPERTIES:
+   :CUSTOM_ID: das-erwachen-der-schatten
+   :END:
+
+Der Tod des [[file:hades.org][Hades]] lässt einige Schatten sich erinnern (es
+sind die Schatten einiger [[file:argonauten.org][Argonauten]], darunter ihr
+Anführer [[file:iason.org][Iason]]). Durch die wiederkehrende Erinnerung werden
+die Schatten stofflich und Begehren gegen den Totengott auf.
+
+** Die Erstürmung der Hadesfestung
+   :PROPERTIES:
+   :CUSTOM_ID: die-erstürmung-der-hadesfestung
+   :END:
+
+Nach seiner Ermordung zieht sich der Hades auf seine
+[[file:festung-des-hades.org][Festung]] zurück. Er sieht sich konfrontiert mit
+den heranstürmenden Schattenhorden. Welle um Welle der Toten wirft er
+unter großen Anstrengungen zurück, bevor er jedoch zusammenbricht,
+erscheint [[file:athene.org][Athene]] und führt ihn in die Festung.
+
+** Die Rückverstofflichung der Schatten
+   :PROPERTIES:
+   :CUSTOM_ID: die-rückverstofflichung-der-schatten
+   :END:
+
+Durch die Vereinigung ihrer Kräfte gelingt es Athene,
+[[file:hermes.org][Hermes]] und Hades, die stofflichen Schatten wieder in
+normale Schatten zurückzuverwandeln.

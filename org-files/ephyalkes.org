@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Ephyalkes
+
+*Ephyalkes* war der Vater des [[file:phydrax.org][Phydrax]]. Er verfluchte die
+[[file:gorgonen.org][Gorgone]] [[file:medusa.org][Medusa]], dass ihr zehn Jahre lang
+Haare statt Nattern wachsen.

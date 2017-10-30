@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Aphrodite
+
+*Aphrodite* ist die Göttin der Liebe und der Schönheit. Sie ist eine
+Tochter des [[file:uranus.org][Uranus]].

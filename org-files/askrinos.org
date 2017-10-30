@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Askrinos
+
+*Askrinos*, gennant "der Freie", ist ein gefeierter Lebemann und
+Liebhaber des [[file:ostreos.org][Ostreos]].

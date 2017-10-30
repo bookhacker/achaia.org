@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Femiphobie
+
+*Femiphobie* bezeichnet die Angst vor Frauen. [[file:pygmalion.org][König
+Pygmalion]] von [[file:paphos.org][Paphos]] ist ein Femiphobiker.

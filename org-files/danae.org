@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Danae
+
+*Danae* war eine Geliebte des [[file:zeus.org][Zeus]] und Mutter des legendären
+[[file:helden.org][Helden]] [[file:perseus.org][Perseus]].

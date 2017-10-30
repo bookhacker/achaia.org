@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Aipos
+
+Der *Aipos* ist ein Berg in [[file:lydien.org][Lydien]]. Die Stadt
+[[file:hypaipa.org][Hypaipa]] liegt am Fuße des Aipos.

@@ -1,0 +1,252 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Gorgoneion-Eine Tragodia
+
+** Inhaltsverzeichnis
+   :PROPERTIES:
+   :CUSTOM_ID: inhaltsverzeichnis
+   :END:
+
+-  [[personae][Personae]]
+-  [[zusammenfassung][Zusammenfassung]]
+-  [[gesängekatalog][Gesängekatalog]]
+-  [[prolog][PROLOG]]
+-  [[erste-episoda][ERSTE EPISODA]]
+-  [[zweite-episoda][ZWEITE EPISODA]]
+-  [[dritte-episoda][DRITTE EPISODA]]
+-  [[vierte-episoda][VIERTE EPISODA]]
+-  [[exodus][EXODUS]]
+-  [[ausführliches-personenverzeichnis][Ausführliches
+   Personenverzeichnis]]
+-  [[orte-länder-flüsse][Orte, Länder, Flüsse]]
+-  [[easter-eggs][Easter Eggs]]
+
+** Personae
+   :PROPERTIES:
+   :CUSTOM_ID: personae
+   :END:
+
+-  [[file:medusa.org][Medusa]]: Gorgone. Vom Ephyalkes mit einem Fluch belegt.
+-  [[file:perseus.org][Perseus]]: Legendärer griechischer Held. Von Polydektes
+   ausgesandt, die Gorgone zu erschlagen. Sohn des Zeus und der Danae.
+-  [[file:aischylos.org][Aischylos]], [[file:sophokles.org][Sophokles]] und
+   [[file:euripides.org][Euripides]]: Größte Dramatiker ihrer Zeit.
+-  [[file:cheiron.org][Cheiron]]: Sohn der Medusa und des Perseus.
+-  [[file:halix.org][Halix]]: Säufer und arme Seele.
+
+** Zusammenfassung
+   :PROPERTIES:
+   :CUSTOM_ID: zusammenfassung
+   :END:
+
+Die Gorgone Medusa lebt einsam und zurückgezogen in ihrer Höhle
+außerhalb der Zivilisation. Ein Fluch lässt ihr zehn Jahre lang Haare
+statt Nattern wachsen und jeder Mann, der sie erblickt, verliebt sich in
+sie.
+
+Eines Tages erscheint Perseus, um die Gorgone zu erschlagen. Doch statt
+sie zu töten, verliebt er sich in sie und will sie heiraten.
+
+Zehn Jahre später -- Medusa und Perseus haben eine Familie gegründet --
+schlägt der Fluch unerbittlich zu und der Medusa wachsen wieder Nattern
+statt Haare.
+
+Perseus und ihr gemeinsamer Sohn werden durch den schrecklichen Anblick
+versteinert. Im Wahnsinn zieht die Medusa mordend und versteinernd durch
+die Stadt Seriphos.
+
+Des Toten überdrüssig beschließt sie, sich selbst mit dem Spiegelschild
+der Athene, mit dem Perseus damals bei ihr erschienen ist, das Leben zu
+nehmen.
+
+Im Totenreich angekommen versteinert sie auch hier alles und jeden.
+Nachdem alles versteinert ist, beschließt sie in den Tartarus zu gehen,
+um auch die Titanen zu versteinern.
+
+** Gesängekatalog
+   :PROPERTIES:
+   :CUSTOM_ID: gesängekatalog
+   :END:
+
+*** PROLOG
+    :PROPERTIES:
+    :CUSTOM_ID: prolog
+    :END:
+
+**** Die Elysischen Felder. Elf steinerne Statuen der Olympier säumen
+den Platz.
+     :PROPERTIES:
+     :CUSTOM_ID: die-elysischen-felder.-elf-steinerne-statuen-der-olympier-säumen-den-platz.
+     :END:
+
+AISCHYLOS. SOPHOKLES. EURIPIDES. Sie bilden den CHOR DER DRAMATIKER.
+
+Die drei Dramatiker berichten den Fluch des Ephyalkes: Der Gorgone
+Medusa sollen zehn Jahre lang Haare statt Nattern wachsen und jeder
+Mann, der sie sieht, soll sich in sie verlieben.
+
+*** ERSTE EPISODA
+    :PROPERTIES:
+    :CUSTOM_ID: erste-episoda
+    :END:
+
+**** Labyrinth der Medusa.
+     :PROPERTIES:
+     :CUSTOM_ID: labyrinth-der-medusa.
+     :END:
+
+MEDUSA.
+
+Medusa bürstet ihr Haar und erzählt von Phydrax, dem Sohn des Ephyalkes,
+der sie in ihrem Labyrinthe fand und durch ihren Anblick versteinerte.
+Ein Geräusch in der Ferne erregt ihre Aufmerksamkeit.
+
+**** Eingang zum Labyrinth. Draußen tobt ein Sturm.
+     :PROPERTIES:
+     :CUSTOM_ID: eingang-zum-labyrinth.-draußen-tobt-ein-sturm.
+     :END:
+
+PERSEUS. Der versteinerte PHYDRAX.
+
+Perseus erscheint im Labyrinth der Medusa und berichtet vom Auftrag des
+Polydektes: Ihm soll er den Kopf der Medusa bringen. Mit sich führt er
+den Spiegelschild der Athene und eine Tarnkappe, die er aufsetzt und
+unsichtbar wird.
+
+**** Medusas Kammer im Labyrinth.
+     :PROPERTIES:
+     :CUSTOM_ID: medusas-kammer-im-labyrinth.
+     :END:
+
+MEDUSA stürmt herein.
+
+Perseus trifft auf die Medusa. Er will sie erschlagen, verliebt sich
+jedoch in das wunderschöne Wesen. Statt sie zu töten, will er sie zu
+Polydektes führen und sie heiraten.
+
+*** ZWEITE EPISODA
+    :PROPERTIES:
+    :CUSTOM_ID: zweite-episoda
+    :END:
+
+**** Haus des Perseus. Waffenkammer.
+     :PROPERTIES:
+     :CUSTOM_ID: haus-des-perseus.-waffenkammer.
+     :END:
+
+MEDUSA vor einem runden, mit schwarzem Tuch verhangenen Gegenstand an
+der Wand.
+
+Medusa spürt nach zehn Jahren wieder ihre Nattern wachsen.
+
+**** Schlafgemach.
+     :PROPERTIES:
+     :CUSTOM_ID: schlafgemach.
+     :END:
+
+PERSEUS auf dem Lager.
+
+Perseus erwacht aus Albträumen (unter anderem Titanenkampf) und macht
+sich auf, Medusa zu suchen.
+
+**** Waffenkammer.
+     :PROPERTIES:
+     :CUSTOM_ID: waffenkammer.
+     :END:
+
+MEDUSA. PERSEUS tritt herein.
+
+Die zurückverwandelte Medusa versteinert Perseus und den überraschend
+hereintretenden Cheiron. Vom Wahnsinn übermannt ob des tragischen
+Verlustes schwört sie grausame Rache an der Welt.
+
+*** DRITTE EPISODA
+    :PROPERTIES:
+    :CUSTOM_ID: dritte-episoda
+    :END:
+
+**** Brennende Stadt Seriphos. Steinerne Statuen säumen die Straßen.
+     :PROPERTIES:
+     :CUSTOM_ID: brennende-stadt-seriphos.-steinerne-statuen-säumen-die-straßen.
+     :END:
+
+HALIX der Säufer.
+
+Medusa versteinert den Halix, ist des Tötens überdrüssig und beschließt,
+nach Hause zu gehen. Dort will sie ihrem Dasein mit dem Spiegelschild
+der Athene ein Ende machen.
+
+*** VIERTE EPISODA
+    :PROPERTIES:
+    :CUSTOM_ID: vierte-episoda
+    :END:
+
+**** Haus des Perseus. Waffenkammer.
+     :PROPERTIES:
+     :CUSTOM_ID: haus-des-perseus.-waffenkammer.-1
+     :END:
+
+MEDUSA vor dem Tuche an der Wand, die erstarrten PERSEUS und CHEIRON um
+sich herum. Feuer flackert durch alle Ritzen.
+
+Medusa nimmt das Tuch vom Spiegelschild, blickt hinein und versteinert.
+
+*** EXODUS
+    :PROPERTIES:
+    :CUSTOM_ID: exodus
+    :END:
+
+**** Die Elysischen Felder. Elf steinerne Statuen der Olympier säumen
+den Platz.
+     :PROPERTIES:
+     :CUSTOM_ID: die-elysischen-felder.-elf-steinerne-statuen-der-olympier-säumen-den-platz.-1
+     :END:
+
+AISCHYLOS. SOPHOKLES. EURIPIDES. Sie bilden den CHOR DER DRAMATIKER.
+
+Um die versteinerten Götter wiederzuerwecken, beginnen die Dramatiker
+damit, die Statuen umzuschmeißen und auf dem Boden zerschellen zu
+lassen. Medusa erscheint und glaubt, Stimmen gehört zu haben. Sie
+schiebt den versteinerten Poseidon heran und betrachtet das versteinerte
+Totenreich und die zerschmetterten Statuen am Boden. Sie beschließt, den
+Titanen im Tartarus einen Besuch abzustatten und verlässt die Bühne.
+
+** Ausführliches Personenverzeichnis
+   :PROPERTIES:
+   :CUSTOM_ID: ausführliches-personenverzeichnis
+   :END:
+
+-  [[file:aischylos.org][Aischylos]]
+-  [[file:cheiron.org][Cheiron]]
+-  [[file:ephyalkes.org][Ephyalkes]]
+-  [[file:euripides.org][Euripides]]
+-  [[file:halix.org][Halix]]
+-  [[file:medusa.org][Medusa]]
+-  [[file:perseus.org][Perseus]]
+-  [[file:phydrax.org][Phydrax]]
+-  [[file:polydektes.org][Polydektes]]
+-  [[file:sophokles.org][Sophokles]]
+
+*** Orte, Länder, Flüsse
+    :PROPERTIES:
+    :CUSTOM_ID: orte-länder-flüsse
+    :END:
+
+-  [[file:seriphos.org][Seriphos]]
+
+** Easter Eggs
+   :PROPERTIES:
+   :CUSTOM_ID: easter-eggs
+   :END:
+
+ZWEITE EPISODA
+
+-- Waffenkammer
+
+#+BEGIN_EXAMPLE
+    Cheiron!
+    Nicht!
+    MEDUSA
+    Hercules – Die legendären Reisen
+    S3E2: Daedalus’ großer Irrtum.
+    Renaissance Pictures/MCA TV, Universal Television Enterprises, Studios USA (1995-1999)
+#+END_EXAMPLE

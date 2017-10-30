@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Cheiron (Kind der Medusa)
+
+*Cheiron* war das Kind der [[file:gorgonen.org][Gorgone]] [[file:medusa.org][Medusa]]
+und des [[file:helden.org][Helden]] [[file:perseus.org][Perseus]]. Er wurde von der
+eigenen Mutter versteinert.

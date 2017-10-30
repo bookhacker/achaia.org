@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Argonautenfahrt
+
+Die *Argonautenfahrt* bezeichnet die Reise des [[file:iason.org][Iason]] und
+der [[file:argonauten.org][Argonauten]] auf der Suche nach dem
+[[file:goldenes-vlies.org][Goldenen Vlies]].

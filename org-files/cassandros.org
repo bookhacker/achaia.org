@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Cassandros
+
+*Cassandros*, genannt "der Bärbeißige", ist der Anführer des
+[[file:kolophon.org][Kolphonischen]] Heeres.

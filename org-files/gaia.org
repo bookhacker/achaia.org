@@ -1,0 +1,29 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Gaia
+
+*Gaia* ist die Allmutter, die Mutter Erde und Gattin des
+[[file:uranus.org][Uranus]].
+
+** Besondere Fähigkeiten
+   :PROPERTIES:
+   :CUSTOM_ID: besondere-fähigkeiten
+   :END:
+
+*** Erdwurzelgestalt
+    :PROPERTIES:
+    :CUSTOM_ID: erdwurzelgestalt
+    :END:
+
+Gaia kann sowohl ihre Gliedmaßen als auch sich vollständig in Wurzeln
+verwandeln. In Erdwurzelgestalt ist Gaia in der Lage, sich durch die
+Erde fortzubewegen (ähnlich der [[file:manifestation.org][Manifestation]] bei
+[[file:goetter.org][Göttern]]). Dazu muss sie die Erde direkt berühren und sie
+kann auch nur durch die Erde selbst wiederum an Orten erscheinen.
+
+*** Riesengestalt
+    :PROPERTIES:
+    :CUSTOM_ID: riesengestalt
+    :END:
+
+Gaia kann sich in eine Riesengestalt verwandeln. Da es sich dabei jedoch
+nur um eine Illusion handelt, kann sie keinerlei Schaden anrichten.

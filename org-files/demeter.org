@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Demeter
+
+*Demeter* ist eine Tochter des [[file:kronos.org][Kronos]] und der
+[[file:rhea.org][Rhea]]. Sie ist die Göttin der Ernte und der Fruchtbarkeit.

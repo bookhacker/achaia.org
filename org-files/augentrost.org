@@ -1,0 +1,14 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Augentrost
+
+*Augentrost*, auch [[file:euphrasia.org][Euphrasia]] genannt, ist eine
+Heilpflanze zur Linderung von Augenbeschwerden.
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Der Heiler [[file:asklepios.org][Asklepios]] heilt den Jungen
+[[file:padmilos.org][Padmilos]] mit Augentrost von seiner durch die
+[[file:kolophonium.org][Kolophonium]]-Dämpfe verursachten Blindheit.

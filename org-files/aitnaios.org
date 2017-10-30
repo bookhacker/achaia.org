@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Aitnaios
+
+*Aitnaios* ist einer der [[file:zwerge-der-kybele.org][vier Zwerge]] der
+[[file:kybele.org][Kybele]].

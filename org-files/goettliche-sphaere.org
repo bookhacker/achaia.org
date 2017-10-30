@@ -1,0 +1,13 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Göttliche Sphäre
+
+Die *Göttliche Sphäre* umfasst die Welt [[file:achaia.org][Achaia]], die
+[[file:totenreich.org][Unterwelt]], den Berg [[file:olymp.org][Olymp]] sowie die
+[[file:himmelsfestung-des-uranus.org][Himmelsfestung des Uranus]]. Sie ist der
+Bereich, in dem sich die [[file:goetter.org][Götter]] durch
+[[file:manifestation.org][Manifestation]] frei bewegen können. Darüber hinaus
+sind die Götter nur innerhalb der Göttlichen Sphäre
+[[file:allmaechtigkeit.org][allmächtig]].
+
+Die [[file:insel-der-moiren.org][Insel der Moiren]] und der
+[[file:aether.org][Aether]] liegen außerhalb der Göttlichen Sphäre.

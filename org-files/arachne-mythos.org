@@ -1,0 +1,11 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Arachne (Mythos)
+
+Der *Arachne-Mythos* ist die Geschichte des Mädchens
+[[file:arachne.org][Arachne]], Tochter des [[file:idmon.org][Idmon]] von
+[[file:kolophon.org][Kolophon]], die sich als größte Weberin aller Zeiten über
+die Göttin [[file:athene.org][Athene]] erhob und von dieser zur Strafe in eine
+Spinne verwandelt wurde.
+
+Ihre Geschichte ist Thema des Epos'
+[[file:arachneion-pallashass.org][Arachneion-Pallashass]].

@@ -1,0 +1,17 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Colydon
+
+*Colydon* ist die Ziege der [[file:arachne.org][Arachne]].
+
+** Ereignisse in Arachneion-Pallashass
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-arachneion-pallashass
+   :END:
+
+Die Ziege Colydon begleitet Arachne, [[file:asklepios.org][Asklepios]] und die
+anderen aus [[file:kolophon.org][Kolophon]] bis nach [[file:myrina.org][Myrina]], von
+dort zur [[file:samothrake.org][Insel Samothrake]] bis hin zur
+[[file:insel-der-moiren.org][Insel der Moiren]]. Auf der Rückfahrt von der
+Insel der Moiren greift das Monstrum [[file:agdistis.org][Agdistis]] an,
+Colydon stützt sich auf das Monstrum, stößt es über Deck, wird aber von
+Agdistis mit in die Tiefe gerissen.

@@ -1,0 +1,7 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Aether
+
+Der *Aether* ist der Zustand, den die Toten erreichen, die jede
+Stofflichkeit verlieren. Im Aether sein Dasein zu fristen ist die
+größtmögliche existierende Bestrafung. Im Aether
+[[file:nicht-existenz.org][nicht-existiert]] alles als Nebel und Schatten.

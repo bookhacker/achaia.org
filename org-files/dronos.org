@@ -1,0 +1,6 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Dronos
+
+*Dronos* ist der von [[file:ikas.org][Ikas]] bei der Seeschlacht in der
+Meerenge bei [[file:salamis-insel.org][Salamis]] erschlagene Heerführer der
+[[file:abanten.org][Abanten]].

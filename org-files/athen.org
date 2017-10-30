@@ -1,0 +1,7 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Athen
+
+*Athen* ist der größte und mächtigste Stadtstaat [[file:achaia.org][Achaias]].
+Athen liegt in der Landschaft [[file:attika.org][Attika]] und steht in
+ständiger, mehr oder weniger friedlicher Konkurrenz zum Stadtstaat
+[[file:sparta.org][Sparta]].

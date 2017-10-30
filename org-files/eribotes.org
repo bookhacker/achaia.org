@@ -1,0 +1,5 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Eribotes
+
+*Eribotes* ist einer der [[file:argonauten.org][Argonauten]]. Er fiel in
+[[file:lybien.org][Libyen]].

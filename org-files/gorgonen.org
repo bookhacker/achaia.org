@@ -1,0 +1,19 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Gorgonen
+
+Die *Gorgonen* waren drei Schwestern von furchterregender Gestalt: Sie
+hatten Schlangen statt Haare, Reißzähne und ihr Anblick - zumindest der,
+der [[file:medusa.org][Medusa]] - soll Menschen zu Stein verwandelt haben. Die
+Gorgonen waren - bis auf Medusa - unsterblich.
+
+Ihre Namen waren Medusa, [[file:stheno.org][Stheno]] und [[file:euryle.org][Euryale]].
+
+** Ereignisse in Gorgoneion-Eine Tragodia
+   :PROPERTIES:
+   :CUSTOM_ID: ereignisse-in-gorgoneion-eine-tragodia
+   :END:
+
+Medusa ist die Hauptfigur in
+[[file:gorgoneion-eine-tragodia.org][Gorgoneion-Eine Tragodia]]: Hier trifft
+sie der Fluch des [[file:ephyalkes.org][Ephyalkes]], so dass ihr zehn Jahre
+lang Haare statt Nattern aus dem Schopfe wachsen.
