@@ -1,2 +1,2 @@
 # achaia.org
-org-mode created website achaia.org. Inspired by https://github.com/jekyll/minima theme.
+[org-mode](http://orgmode.org/) created website achaia.org. Inspired by [github.com/jekyll/minima](https://github.com/jekyll/minima)-theme.
