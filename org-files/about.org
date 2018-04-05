@@ -5,7 +5,7 @@ Dies ist der INDEX ACHAIA. Er enthält sämtliche Hintergrundinformationen
 zur griechisch-mythologischen Alternativ-Welt [[file:achaia.org][Achaia]].
 Achaia ist der Hintergrund all meiner [[file:werke.org][Werke]]. Wer Genaueres
 erfahren möchte, findet weitere Informationen auf meiner Webseite
-[[https://mythenhacker.de][mythenhacker.de]].
+[[https://bookhacker.org][bookhacker.org]].
 
 ** Disclaimer
    :PROPERTIES:
