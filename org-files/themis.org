@@ -1,15 +1,13 @@
 #+SETUPFILE: ../org-templates/level-0.org
 #+TITLE: Themis
+#+STARTUP: showall
 
-*Themis* ist die Tochter des [[file:uranus.org][Uranus]] und der
-[[file:gaia.org][Gaia]]. Sie ist eine Gemahlin des [[file:zeus.org][Zeus]] und Mutter
-der [[file:Moiren.org][Schicksalsgöttinnen]].
+*Themis* ist die Tochter des [[file:uranus.org][Uranus]] und der [[file:gaia.org][Gaia]]. Sie ist eine Gemahlin des [[file:zeus.org][Zeus]] und Mutter der [[file:Moiren.org][Schicksalsgöttinnen]].
+
+** Besondere Fähigkeiten
+*** Hellsichtigkeit
+Themis verfügt über Hellsichtigkeit. Sie ist zwar die Hüterin des [[file:orakel-von-delphi.org][Orakels von Delphi]], verfügt aber auch ohne das Orakel über die Gabe der Hellsicht. Im Dunkeln neigt sie jedoch aufgrund ihrer Fähigkeit zu extremen Halluzinationen, die es ihr quasi unmöglich machen, sich im Dunkeln fortzubewegen.
 
 ** Ereignisse in Titaneion-Titanenschlacht Episoda 1: Bestienborn
-   :PROPERTIES:
-   :CUSTOM_ID: ereignisse-in-titaneion-titanenschlacht-episoda-1-bestienborn
-   :END:
 
-Während der [[file:erste-titanenheerschau.org][Ersten Titanenheerschau]]
-verweigert sie - wie alle weiblichen Titanen - ihrem Bruder
-[[file:kronos.org][Kronos]] ihre Unterstützung.
+Während der [[file:erste-titanenheerschau.org][Ersten Titanenheerschau]] verweigert sie - wie alle weiblichen Titanen - ihrem Bruder [[file:kronos.org][Kronos]] ihre Unterstützung.
