@@ -17,7 +17,7 @@
 	 :html-preamble
 	 "<header id=\"banner\">
 <div class=\"wrapper\">
-  <h1><a href=\"https://achaia.org\">INDEX ACHAIA</a></h1>
+  <h1><a href=\"https://achaia.bookhacker.org\">INDEX ACHAIA</a></h1>
   <nav><ul>
     <li><a href=\"./datenschutz.html\">Datenschutz</a></li>
     <li><a href=\"./impressum.html\">Impressum</a></li>
@@ -32,7 +32,7 @@
 <div class=\"footer-left\">
 <ul class=\"contact-list\">
 <li>INDEX ACHAIA</li>
-<li><a href=\"mailto:kontakt@achaia.org\">kontakt@achaia.org</a></li>
+<li><a href=\"mailto:achaia@bookhacker.org\">achaia@bookhacker.org</a></li>
 </ul>
 </div>
 <div class=\"footer-right\">
